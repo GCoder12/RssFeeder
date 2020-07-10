@@ -2,5 +2,26 @@
 <resources>
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <!--   a secondary color for controls like checkboxes and text fields -->
+    <color name="colorAccent"></color>
+
+    <color name="primaryColor">#2196F3</color>
+    <color name="primaryLightColor">#CCCBCB</color>
+    <color name="primaryDarkColor">#1B51F3</color>
+    <color name="primaryColorOverlay">#3875C7</color>
+
+    <color name="secondaryColor">#212121</color>
+    <color name="secondaryLightColor">#484848</color>
+    <color name="secondaryDarkColor">#000000</color>
+
+    <color name="primaryTextColor">#000000</color>
+    <color name="secondaryTextColor">#ffffff</color>
+    <color name="backgroundColor">#ffffff</color>
+
+
+
+    <color name="credibility_color_good">#5BB98B</color>
+    <color name="credibility_color_average">#F2C144</color>
+    <color name="credibility_color_bad">#D24C2D</color>
+    <color name="credibility_none">#5A5A5A</color>
 </resources>

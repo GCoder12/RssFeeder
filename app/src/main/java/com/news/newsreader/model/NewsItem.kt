@@ -1,13 +1,14 @@
 package com.news.newsreader.model
 
+import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
-@Entity
-class NewsItem (
-    @PrimaryKey private val guid : String,
-    private val title : String,
-    private val link : String,
-    private val description : String,
-    private val imageUrl : String
-)
+@Entity(tableName = "news_item")
+data class NewsItem (
+    @PrimaryKey val guid : String = "",
+    override val title : String = "",
+    override val link : String = "",
+    override val description : String = "",
+    override val imageUrl : String = ""
+) : AdapterDataItem

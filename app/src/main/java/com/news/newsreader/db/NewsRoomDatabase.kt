@@ -13,7 +13,7 @@ abstract class NewsRoomDatabase : RoomDatabase() {
     abstract fun NewsDao(): NewsDao
 
     companion object {
-        lateinit var INSTANCE: NewsRoomDatabase
+        var INSTANCE: NewsRoomDatabase? = null
 
         fun getDatabase(context: Context, scope: CoroutineScope): NewsRoomDatabase {
             val TEMP_INSTANCE = INSTANCE
@@ -27,7 +27,7 @@ abstract class NewsRoomDatabase : RoomDatabase() {
                     "NewsDb"
                 ).addCallback(NewsRoomDbCallback(scope)).build()
                 INSTANCE = instance
-                return INSTANCE
+                return instance
             }
 
         }

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="feed_item_avatar" type="id"/>
+    <item name="feed_item_alternate_image" type="id"/>
+    <item name="feed_item_heading_tv" type="id"/>
+    <item name="feed_item_description_tv" type="id"/>
+<!--    <item name="feed_item_description_tv" type="id"/>-->
+    <item name="feed_item_source_tv" type="id"/>
+    <item name="feed_item_time_tv" type="id"/>
+    <item name="feed_item_share" type="id"/>
+    <item name="feed_item_cred_btn" type="id"/>
+    <item name="feed_item_cred_btn_title" type="id"/>
+    <item name="feed_item_avatar_placeholder" type="id"/>
+
+    <!--This is id of views to adjust heights to prevent weird scaling on cardview imageviews-->
+    <item name="card_height_adjuster" type="id"/>
+
+    <item name="section_title_avatar" type="id"/>
+    <item name="section_title_tv" type="id"/>
+    <item name="section_subtitle_tv" type="id"/>
+
+</resources>

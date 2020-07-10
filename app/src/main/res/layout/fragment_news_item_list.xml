@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto">
+
+    <ImageView
+        android:id="@id/feed_item_avatar"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="5dp"
+        android:adjustViewBounds="true"
+        android:background="@color/primaryLightColor"
+        android:contentDescription="avatar"
+        android:scaleType="centerCrop"
+        card_view:layout_constraintBottom_toTopOf="@+id/postcard_guideline"
+        card_view:layout_constraintEnd_toEndOf="parent"
+        card_view:layout_constraintHorizontal_bias="0.0"
+        card_view:layout_constraintStart_toStartOf="parent"
+        card_view:layout_constraintTop_toTopOf="parent"
+        card_view:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@id/feed_item_heading_tv"
+        style="@style/CredTitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:ellipsize="end"
+        android:textColor="@color/primaryTextColor"
+        android:text="@string/placeholder_heading"
+        card_view:layout_constraintStart_toStartOf="parent"
+        card_view:layout_constraintTop_toBottomOf="@id/feed_item_avatar" />
+
+    <TextView
+        android:id="@id/feed_item_description_tv"
+        style="@style/CredDescriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:visibility="gone"
+        card_view:layout_constraintStart_toStartOf="parent"
+        card_view:layout_constraintTop_toBottomOf="@+id/feed_item_heading_tv" />
+
+    <TextView
+        android:id="@id/feed_item_source_tv"
+        style="@style/CredSmallTextView"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="2dp"
+        android:ellipsize="end"
+        android:text="@string/placeholder_source"
+        card_view:layout_constraintEnd_toStartOf="@+id/feed_item_time_tv"
+        card_view:layout_constraintHorizontal_bias="0.0"
+        card_view:layout_constraintStart_toStartOf="parent"
+        card_view:layout_constraintTop_toBottomOf="@+id/feed_item_description_tv" />
+
+    <TextView
+        android:id="@id/feed_item_time_tv"
+        style="@style/CredSmallTextView.Time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="4dp"
+        android:text="@string/placeholder_time"
+        card_view:layout_constraintBaseline_toBaselineOf="@id/feed_item_source_tv"
+        card_view:layout_constraintEnd_toEndOf="parent" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/postcard_guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        card_view:layout_constraintGuide_percent=".65" />
+
+    <ImageView
+        android:id="@id/feed_item_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="4dp"
+        android:tint="@color/primaryColor"
+        card_view:layout_constraintStart_toStartOf="parent"
+        card_view:layout_constraintTop_toBottomOf="@id/feed_item_source_tv"
+        card_view:srcCompat="@drawable/ic_share_black_24dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="2dp"
+        android:text="@string/content_share"
+        android:textColor="@color/primaryColor"
+        card_view:layout_constraintBottom_toBottomOf="@id/feed_item_share"
+        card_view:layout_constraintStart_toEndOf="@id/feed_item_share" />
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="2dp"
+        card_view:layout_constraintEnd_toEndOf="parent"
+        card_view:layout_constraintTop_toBottomOf="@id/feed_item_source_tv">
+
+        <ImageButton
+            android:id="@id/feed_item_cred_btn"
+            android:layout_width="65dp"
+            android:layout_height="20dp"
+            android:background="@null"
+            android:tint="@color/primaryColor"
+            card_view:srcCompat="@drawable/drawable_cred_button_background" />
+
+        <TextView
+            android:id="@id/feed_item_cred_btn_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="High"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="12sp" />
+    </FrameLayout>
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        card_view:layout_constraintGuide_percent=".8" />
+
+    <ImageView
+        android:id="@id/feed_item_avatar_placeholder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        card_view:layout_constraintBottom_toBottomOf="@+id/feed_item_avatar"
+        card_view:layout_constraintEnd_toEndOf="parent"
+        card_view:layout_constraintStart_toStartOf="parent"
+        card_view:layout_constraintTop_toTopOf="parent"
+        card_view:srcCompat="@drawable/img_no_image_feature" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

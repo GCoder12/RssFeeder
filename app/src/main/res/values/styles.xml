@@ -7,4 +7,37 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CredTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textAppearance">@android:style/TextAppearance.Material.Large</item>
+    </style>
+
+
+    <style name="SectionTitle" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/primaryColor</item>
+    </style>
+    <style name="SectionSubtitle" parent="TextAppearance.MaterialComponents.Subtitle1"/>
+
+    <style name="CredTitleTextView" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textStyle">bold</item>
+        <item name="android:minLines">3</item>
+        <item name="android:maxLines">3</item>
+        <!--        <item name="android:textSize">18sp</item>-->
+    </style>
+
+    <style name="CredDescriptionTextView" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:maxLines">3</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <style name="CredSmallTextView" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:maxLines">1</item>
+    </style>
+
+    <style name="CredSmallTextView.Time">
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+
 </resources>
