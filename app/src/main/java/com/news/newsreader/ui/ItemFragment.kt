@@ -14,9 +14,8 @@ import com.news.newsreader.DataHelper.Companion.getFirstTestItem
 import com.news.newsreader.DataHelper.Companion.getFourthTestItem
 import com.news.newsreader.DataHelper.Companion.getSecondTestItem
 import com.news.newsreader.DataHelper.Companion.getThirdTestItem
-import com.news.newsreader.model.NewsItem
-import com.news.newsreader.ui.dummy.DummyContent
-import com.news.newsreader.ui.list.ParentListAdapter
+import com.news.newsreader.model.db.models.NewsModel
+import com.news.newsreader.ui.adapter.ParentListAdapter
 
 /**
  * A fragment representing a list of Items.
@@ -37,17 +36,17 @@ class ItemFragment : Fragment() {
         val view = inflater.inflate(R.layout.fragment_item_list, container, false)
         newsViewModel = ViewModelProvider(this).get(NewsViewModel::class.java)
 
-        val list = arrayListOf<List<NewsItem>>()
+        val list = arrayListOf<List<NewsModel>>()
         for (i in 0..3) {
-            val itemList : List<NewsItem> = when (i) {
+            val modelList : List<NewsModel> = when (i) {
                 0 -> arrayListOf(getFirstTestItem())
                 1 -> arrayListOf(getFirstTestItem(), getSecondTestItem(), getThirdTestItem())
                 2 -> arrayListOf(getFirstTestItem(), getFifthTestItem(), getFourthTestItem())
                 3 -> arrayListOf(getFifthTestItem(), getFourthTestItem(), getThirdTestItem(),
                     getSecondTestItem(), getFirstTestItem())
-                else -> arrayListOf(NewsItem())
+                else -> arrayListOf(NewsModel())
             }
-            list.add(itemList)
+            list.add(modelList)
         }
 
 

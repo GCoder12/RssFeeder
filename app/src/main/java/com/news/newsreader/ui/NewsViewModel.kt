@@ -4,9 +4,12 @@ import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.viewModelScope
-import com.news.newsreader.model.NewsItem
-import com.news.newsreader.db.NewsRoomDatabase
-import com.news.newsreader.model.Repository
+import com.news.newsreader.model.api.ApiService
+import com.news.newsreader.model.db.models.NewsModel
+import com.news.newsreader.model.db.NewsRoomDatabase
+import com.news.newsreader.model.db.models.NewsCategoryModel
+import com.news.newsreader.model.repo.Repository
+import com.news.newsreader.model.repo.RepositoryImpl
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
@@ -15,18 +18,20 @@ class NewsViewModel(
 ) : AndroidViewModel(application) {
 
 
-    val repository : Repository
-    val items : LiveData<List<NewsItem>>
+    var repository : Repository
+
+    val items : LiveData<List<NewsCategoryModel>>
 
     init {
         val database = NewsRoomDatabase.getDatabase(application,viewModelScope)
-        repository = Repository(database.NewsDao())
-        items = repository.items
+        val service = ApiService()
+        repository = RepositoryImpl(database.NewsDao(),service)
+        items = (repository as RepositoryImpl).items
     }
 
     fun fetchNewsItems() {
          viewModelScope.launch(Dispatchers.IO) {
-             repository.getNewsItems()
+         repository.getNewsItems()
          }
     }
 

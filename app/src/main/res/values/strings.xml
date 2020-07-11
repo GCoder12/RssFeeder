@@ -9,4 +9,17 @@
     <string name="placeholder_subtitle">SubTitle</string>
 
     <string name="content_share">Share</string>
+
+    <string name="feed_1">NASA</string>
+    <string name="feed_2">America</string>
+    <string name="feed_3">World Events</string>
+    <string name="feed_4">Technology</string>
+
+    <string-array name="feed_categories">
+        <item>@string/feed_1</item>
+        <item>@string/feed_2</item>
+        <item>@string/feed_3</item>
+        <item>@string/feed_4</item>
+    </string-array>
+
 </resources>

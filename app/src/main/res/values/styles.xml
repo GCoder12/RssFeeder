@@ -25,6 +25,9 @@
         <!--        <item name="android:textSize">18sp</item>-->
     </style>
 
+    <style name="CategoryTextView" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:textStyle">bold</item>
+    </style>
     <style name="CredDescriptionTextView" parent="TextAppearance.MaterialComponents.Body1">
         <item name="android:maxLines">3</item>
         <item name="android:ellipsize">end</item>

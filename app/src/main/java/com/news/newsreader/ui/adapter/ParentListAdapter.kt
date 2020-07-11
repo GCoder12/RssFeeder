@@ -1,4 +1,4 @@
-package com.news.newsreader.ui.list
+package com.news.newsreader.ui.adapter
 
 import android.view.LayoutInflater
 import android.view.View

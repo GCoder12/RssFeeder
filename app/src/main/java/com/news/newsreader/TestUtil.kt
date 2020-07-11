@@ -1,11 +1,11 @@
 package com.news.newsreader
 
-import com.news.newsreader.model.NewsItem
+import com.news.newsreader.model.db.models.NewsModel
 
 class DataHelper {
     companion object {
-        fun getFirstTestItem() : NewsItem {
-            return NewsItem(
+        fun getFirstTestItem() : NewsModel {
+            return NewsModel(
                 "",
                 "NASA Provides Update on Commercial Crew Program, Close Call Review of Boeing’s Orbital Flight Test",
                 "http://www.nasa.gov/press-release/nasa-provides-update-on-commercial-crew-program-close-call-review-of-boeing-s-orbital</link>\n",
@@ -14,8 +14,8 @@ class DataHelper {
             )
         }
 
-        fun getSecondTestItem() : NewsItem {
-            return NewsItem(
+        fun getSecondTestItem() : NewsModel {
+            return NewsModel(
                 "",
                 "Artemis Generation Students Across US to Speak with NASA Astronaut in Space",
                 "http://www.nasa.gov/press-release/artemis-generation-students-across-us-to-speak-with-nasa-astronaut-in-space",
@@ -24,8 +24,8 @@ class DataHelper {
             )
         }
 
-        fun getThirdTestItem(): NewsItem{
-            return NewsItem(
+        fun getThirdTestItem(): NewsModel {
+            return NewsModel(
                 "",
                 "NASA Awards Total and Spectral Solar Irradiance Sensor-2 Spacecraft Contract",
                 "http://www.nasa.gov/press-release/nasa-awards-total-and-spectral-solar-irradiance-sensor-2-spacecraft-contract",
@@ -34,8 +34,8 @@ class DataHelper {
             )
         }
 
-        fun getFourthTestItem(): NewsItem {
-            return NewsItem(
+        fun getFourthTestItem(): NewsModel {
+            return NewsModel(
                 "",
                 "NASA Names Joel Montalbano International Space Station Program Manager",
                 "http://www.nasa.gov/press-release/nasa-names-joel-montalbano-international-space-station-program-manager",
@@ -44,14 +44,37 @@ class DataHelper {
             )
         }
 
-        fun getFifthTestItem() : NewsItem{
-            return NewsItem(
+        fun getFifthTestItem() : NewsModel {
+            return NewsModel(
                 "",
                 "NASA Science Hosts Public Town Hall to Provide Updates",
                 "http://www.nasa.gov/press-release/nasa-science-hosts-public-town-hall-to-provide-updates",
                 "NASA’s Science Mission Directorate will hold a virtual community town hall with Associate Administrator for Science Thomas Zurbuchen and other members of the Science leadership team at 3 p.m. EDT Thursday, July 9, to discuss updates on the agency’s science activities.",
                 "http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/nasa-logo-web-rgb.jpg?itok=36eU9WU7"
             )
+        }
+
+        fun getTestingListRow() : List<NewsModel> {
+            return arrayListOf(getFirstTestItem(),
+                getSecondTestItem(),
+                getThirdTestItem(),
+                getFourthTestItem(),
+                getFifthTestItem())
+        }
+        fun getTestingList() : List<List<NewsModel>> {
+            val list = arrayListOf<List<NewsModel>>()
+            for (i in 0..3) {
+                val modelList : List<NewsModel> = when (i) {
+                    0 -> arrayListOf(getFirstTestItem())
+                    1 -> arrayListOf(getFirstTestItem(), getSecondTestItem(), getThirdTestItem())
+                    2 -> arrayListOf(getFirstTestItem(), getFifthTestItem(), getFourthTestItem())
+                    3 -> arrayListOf(getFifthTestItem(), getFourthTestItem(), getThirdTestItem(),
+                        getSecondTestItem(), getFirstTestItem())
+                    else -> arrayListOf(NewsModel())
+                }
+                list.add(modelList)
+            }
+            return list
         }
 
     }

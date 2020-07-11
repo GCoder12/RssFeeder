@@ -1,13 +1,15 @@
-package com.news.newsreader.db
+package com.news.newsreader.model.db
 
 import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.news.newsreader.model.NewsItem
+import com.news.newsreader.model.db.models.CategoryWithNews
+import com.news.newsreader.model.db.models.NewsCategoryModel
+import com.news.newsreader.model.db.models.NewsModel
 import kotlinx.coroutines.CoroutineScope
 
-@Database(entities = arrayOf(NewsItem::class), version = 1, exportSchema = false)
+@Database(entities = arrayOf(NewsCategoryModel::class,NewsModel::class), version = 1, exportSchema = false)
 abstract class NewsRoomDatabase : RoomDatabase() {
 
     abstract fun NewsDao(): NewsDao
