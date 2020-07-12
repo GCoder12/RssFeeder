@@ -22,4 +22,8 @@
         <item>@string/feed_4</item>
     </string-array>
 
+    <!-- action buttons-->
+    <string name="menu_action_select_categories">Categories</string>
+    <string name="menu_action_done">Ok</string>
+
 </resources>

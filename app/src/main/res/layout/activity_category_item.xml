@@ -12,12 +12,14 @@
         android:layout_height="wrap_content"
         android:padding="8dp">
         <TextView
+            android:id="@+id/category_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             style="@style/CategoryTextView"
             android:text="CATEGORY"/>
-        <ImageView
+        <CheckBox
+            android:id="@+id/category_checkbox"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="8dp"

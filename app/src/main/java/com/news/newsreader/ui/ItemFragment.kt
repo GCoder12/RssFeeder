@@ -37,8 +37,12 @@ class ItemFragment : Fragment() {
         val view = inflater.inflate(R.layout.fragment_item_list, container, false)
         newsViewModel = ViewModelProvider(this).get(NewsViewModel::class.java)
         newsViewModel.items.observe(viewLifecycleOwner, Observer {
-            Log.d(TAG,"Setting list ${it.flatMap { it.newsModel }.map { "${it.title}" }}")
+            Log.d(TAG,"Setting list ${it}")
             setList(it)
+        })
+        newsViewModel.categories.observe(viewLifecycleOwner, Observer {
+            Log.d(TAG,"Received categories ${it}")
+
         })
 
         if (view is RecyclerView) {

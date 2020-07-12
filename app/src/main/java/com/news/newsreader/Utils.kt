@@ -3,6 +3,12 @@ package com.news.newsreader
 import com.news.newsreader.model.db.models.NewsCategoryModel
 import com.news.newsreader.model.db.models.NewsModel
 
+class Constants {
+    companion object {
+        val KEY_EXTRA_AVAILABLE_CATEGORIES = "categories"
+        val KEY_EXTRA_SELECTED_CATEGORIES = "categories_selected"
+    }
+}
 class StrUtil {
     companion object {
         fun notEmpty(str:String) : Boolean {

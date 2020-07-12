@@ -21,4 +21,8 @@ class ApiService {
         return ArrayList(DataHelper.getTestingListRow(category))
     }
 
+    fun getCategories() : List<String> {
+        return listOf(CATEGORY_FEED_1, CATEGORY_FEED_2, CATEGORY_FEED_3, CATEGORY_FEED_4, CATEGORY_FEED_5)
+    }
+
 }

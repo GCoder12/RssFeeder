@@ -9,5 +9,6 @@ import androidx.room.PrimaryKey
 @Entity()
 class NewsCategoryModel(
     val category: String,
+    var isDisplayed : Boolean = true,
     @PrimaryKey val feedId: Long = category.hashCode().toLong()
 )

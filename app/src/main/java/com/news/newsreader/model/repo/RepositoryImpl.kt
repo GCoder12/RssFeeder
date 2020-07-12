@@ -5,49 +5,70 @@ import com.news.newsreader.model.api.ApiService
 import com.news.newsreader.model.db.NewsDao
 import com.news.newsreader.model.db.models.CategoryWithNews
 import com.news.newsreader.model.db.models.NewsCategoryModel
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 
 class RepositoryImpl(
     val newsDao: NewsDao,
     val apiService: ApiService
-) : Repository {
+) {
+
+    fun log(msg: String) = println("[${Thread.currentThread().name}] $msg")
 
     val items: LiveData<List<CategoryWithNews>>
+    val categories : LiveData<List<NewsCategoryModel>>
 
 
     init {
-        items = newsDao.getNewsCategoriesList()
+        items = newsDao.getNewsCategoriesToDisplay()
+        categories = newsDao.getPossibleCategories()
     }
 
 
-    override suspend fun getCategoriesWithNews(): LiveData<List<CategoryWithNews>> {
-
-        newsDao.deleteCategories()
+    /**
+     * Gets all categories, and corresponding news items from webservice,
+     * and updates or adds them to DB.
+     */
+    suspend fun getNewsItems(): LiveData<List<CategoryWithNews>> {
+        log("getCategoriesToDisplay()")
+        //Only delete news item, categories can stay
         newsDao.deleteNewsItems()
-        val newsList = apiService.getFeed(ApiService.CATEGORY_FEED_1)
-        newsList.addAll(apiService.getFeed(ApiService.CATEGORY_FEED_2))
-        newsList.addAll(apiService.getFeed(ApiService.CATEGORY_FEED_3))
-        newsList.addAll(apiService.getFeed(ApiService.CATEGORY_FEED_4))
-        newsList.addAll(apiService.getFeed(ApiService.CATEGORY_FEED_5))
-        val categoryList = arrayListOf(
-            NewsCategoryModel(ApiService.CATEGORY_FEED_1),
-            NewsCategoryModel(ApiService.CATEGORY_FEED_2),
-            NewsCategoryModel(ApiService.CATEGORY_FEED_3),
-            NewsCategoryModel(ApiService.CATEGORY_FEED_4),
-            NewsCategoryModel(ApiService.CATEGORY_FEED_5)
-        )
 
-        categoryList.forEach {
-            newsDao.insert(it)
+        //Get all categories from webservice
+        val allCategories = apiService.getCategories()
+
+        //Insert into db if not exists
+        allCategories.forEach {
+            newsDao.insert(NewsCategoryModel(it))
         }
-        newsList.forEach{
-            newsDao.insert(it)
+
+        //Insert all news items pertaining to categories
+        allCategories.forEach {
+            apiService.getFeed(it).forEach{
+                newsDao.insert(it)
+            }
         }
-        return newsDao.getNewsCategoriesList()
+        newsDao.getPossibleCategories()
+        //Fire off observable for displayed news and categories
+        return newsDao.getNewsCategoriesToDisplay()
 
     }
 
-    override fun getAvailableCategories(): List<String> {
-        TODO("Not yet implemented")
+    suspend fun updateDisplayedCategories(displayedCategories : List<String>) {
+        val categorySet = displayedCategories
+        categories.value?.let {
+            it.forEach {newsCategoryModel ->
+                if (categorySet.contains(newsCategoryModel.category)) newsCategoryModel.isDisplayed = true
+                else newsCategoryModel.isDisplayed = false
+                newsDao.update(newsCategoryModel)
+            }
+        }
+    }
+
+    suspend fun getPossibleCategories() : LiveData<List<NewsCategoryModel>> {
+        //Fire off observable for all possible categories
+        return newsDao.getPossibleCategories()
     }
 
 

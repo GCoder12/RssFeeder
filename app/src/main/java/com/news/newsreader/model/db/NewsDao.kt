@@ -14,13 +14,13 @@ interface NewsDao {
 //    fun getNewsItems(feedCategory:String): LiveData<List<NewsModel>>
 
     @Transaction
-    @Query("SELECT * from newscategorymodel")
-    fun getNewsCategoriesList(): LiveData<List<CategoryWithNews>>
+    @Query("SELECT * from newscategorymodel WHERE isDisplayed is 1")
+    fun getNewsCategoriesToDisplay(): LiveData<List<CategoryWithNews>>
 
-    @TestOnly
     @Transaction
     @Query("SELECT * from newscategorymodel")
-    fun getNewsCategoriesListOnly(): List<CategoryWithNews>
+    fun getPossibleCategories() : LiveData<List<NewsCategoryModel>>
+
 
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insert(newsCategoryModel: NewsCategoryModel)
@@ -28,9 +28,18 @@ interface NewsDao {
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insert(newsModel: NewsModel)
 
+    @Update(onConflict = OnConflictStrategy.REPLACE)
+    suspend fun update(newsCategoryModel: NewsCategoryModel)
+
     @Query("DELETE FROM newscategorymodel")
     suspend fun deleteCategories()
 
     @Query("DELETE FROM newsmodel")
     suspend fun deleteNewsItems()
+
+
+    @TestOnly
+    @Transaction
+    @Query("SELECT * from newscategorymodel")
+    fun getNewsCategoriesListOnly(): List<CategoryWithNews>
 }
