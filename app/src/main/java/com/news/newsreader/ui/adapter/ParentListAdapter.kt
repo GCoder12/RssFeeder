@@ -25,7 +25,7 @@ class ParentListAdapter(
     private val viewPool = RecyclerView.RecycledViewPool()
     val TAG = ParentListAdapter::class.simpleName
 
-    val adapterList: List<AdapterItems>
+    lateinit var adapterList: List<AdapterItems>
     val adapterMap: MutableMap<AdapterKey, List<AdapterDataItem>> = mutableMapOf()
 
     /**
@@ -82,9 +82,35 @@ class ParentListAdapter(
             val key = AdapterKey(ItemViewType.POSTCARD, cat.newsCategoryModel.category)
             adapterMap.put(key, listAdapterDataItems)
         }
+        buildOrientationList()
+
+//        //Add section title view types
+//        val mutableList = list.toMutableList()
+//        val mutableIter = mutableList.listIterator()
+//        while (mutableIter.hasNext()) {
+//            val item = mutableIter.next()
+//            if (item.itemViewType == ItemViewType.POSTCARD) {
+//                mutableIter.previous()
+//                mutableIter.add(
+//                    AdapterItems(
+//                        ItemViewType.SECTION_TITLE,
+//                        item.items
+//                    )
+//                )
+//                mutableIter.next()
+//            }
+//        }
+//        adapterList = mutableList.toList()
+
+    }
+
+    fun buildOrientationList() {
         //Flattening the map into a useable list for adapters
         val list = mutableListOf<AdapterItems>()
         adapterMap.forEach { mapEntry ->
+            if (mapEntry.key.itemViewType==ItemViewType.POSTCARD) {
+                list.add(AdapterItems(ItemViewType.SECTION_TITLE,mapEntry.value))
+            }
             //If vertical add 1 element per row
             if (!mapEntry.key.isHorizontal) {
                 for (adapterItem in mapEntry.value) {
@@ -100,27 +126,23 @@ class ParentListAdapter(
             }
 
         }
-
-        //Add section title view types
-        val mutableList = list.toMutableList()
-        val mutableIter = mutableList.listIterator()
-        while (mutableIter.hasNext()) {
-            val item = mutableIter.next()
-            if (item.itemViewType == ItemViewType.POSTCARD) {
-                mutableIter.previous()
-                mutableIter.add(
-                    AdapterItems(
-                        ItemViewType.SECTION_TITLE,
-                        item.items
-                    )
-                )
-                mutableIter.next()
-            }
-        }
-        adapterList = mutableList.toList()
-
+        adapterList = list.toMutableList()
     }
 
+    fun changeCategoryOrientation(position: Int) {
+        val adapterItem = adapterList.get(position)
+        if (adapterItem.items.isNotEmpty()) {
+            val aKey = AdapterKey(
+                adapterItem.itemViewType,
+                adapterItem.items.first().categoryTitle
+            )
+            for ((key,value) in adapterMap) {
+                if (aKey==key)
+                    aKey.isHorizontal = !aKey.isHorizontal
+            }
+        }
+        buildOrientationList()
+    }
 
     override fun getItemViewType(position: Int): Int {
         return adapterList.get(position).itemViewType.ordinal

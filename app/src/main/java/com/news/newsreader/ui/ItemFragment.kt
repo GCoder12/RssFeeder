@@ -51,10 +51,8 @@ class ItemFragment : Fragment() {
     private val adapterListener = object : ParentListAdapter.AdapterListener {
         override fun itemSelected(position: Int) {
             Log.d(TAG,"Position $position selected")
-//            recyclerAdapter.adapterList.get(position).next?.let {
-//                it.isHorizontal = !it.isHorizontal
-//                recyclerAdapter.notifyDataSetChanged()
-//            }
+            recyclerAdapter.changeCategoryOrientation(position)
+            recyclerAdapter.notifyDataSetChanged()
 
         }
 
