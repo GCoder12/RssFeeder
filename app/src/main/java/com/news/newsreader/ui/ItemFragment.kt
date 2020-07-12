@@ -10,16 +10,8 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
-import com.news.newsreader.DataHelper.Companion.getFifthTestItem
 import com.news.newsreader.R
-import com.news.newsreader.DataHelper.Companion.getFirstTestItem
-import com.news.newsreader.DataHelper.Companion.getFourthTestItem
-import com.news.newsreader.DataHelper.Companion.getSecondTestItem
-import com.news.newsreader.DataHelper.Companion.getThirdTestItem
-import com.news.newsreader.model.AdapterDataItem
 import com.news.newsreader.model.db.models.CategoryWithNews
-import com.news.newsreader.model.db.models.NewsCategoryModel
-import com.news.newsreader.model.db.models.NewsModel
 import com.news.newsreader.ui.adapter.ParentListAdapter
 
 /**
@@ -29,6 +21,7 @@ class ItemFragment : Fragment() {
 
     lateinit var newsViewModel  : NewsViewModel
     lateinit var recyclerView: RecyclerView
+    lateinit var recyclerAdapter : ParentListAdapter
 
     val TAG = ItemFragment::class.java.simpleName
 
@@ -55,13 +48,28 @@ class ItemFragment : Fragment() {
         return view
     }
 
+    private val adapterListener = object : ParentListAdapter.AdapterListener {
+        override fun itemSelected(position: Int) {
+            Log.d(TAG,"Position $position selected")
+//            recyclerAdapter.adapterList.get(position).next?.let {
+//                it.isHorizontal = !it.isHorizontal
+//                recyclerAdapter.notifyDataSetChanged()
+//            }
+
+        }
+
+    }
+
     private fun setList(list : List<CategoryWithNews>) {
 
         // Set the adapter
         with(recyclerView) {
             layoutManager =  LinearLayoutManager(context)
-            adapter = ParentListAdapter(list)
+            recyclerAdapter = ParentListAdapter(list,adapterListener)
+
+            adapter = recyclerAdapter
         }
+
     }
 
 }

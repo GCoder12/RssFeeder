@@ -3,7 +3,16 @@ package com.news.newsreader
 import com.news.newsreader.model.db.models.NewsCategoryModel
 import com.news.newsreader.model.db.models.NewsModel
 
+class StrUtil {
+    companion object {
+        fun notEmpty(str:String) : Boolean {
+            return str!=null && str.isNotEmpty()
+        }
+    }
+}
 class DataHelper {
+
+
     companion object {
         fun getFirstTestItem(category: String) : NewsModel {
             return NewsModel(
