@@ -18,14 +18,14 @@ import kotlinx.android.synthetic.main.layout_recycler_view.view.*
  */
 class ParentListAdapter(
     categoryWithNews: List<CategoryWithNews>,
-    val listener: ParentListAdapter.AdapterListener
+    val listener: AdapterListener
 //TODO Add trending list
-) : RecyclerView.Adapter<ParentListAdapter.ParentViewHolder>() {
+) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     private val viewPool = RecyclerView.RecycledViewPool()
     val TAG = ParentListAdapter::class.simpleName
 
-    lateinit var adapterList: List<AdapterItems>
+    lateinit var adapterList: List<BaseRowItem>
     val adapterMap: MutableMap<AdapterKey, List<AdapterDataItem>> = mutableMapOf()
 
     /**
@@ -33,27 +33,53 @@ class ParentListAdapter(
      * AdapterItemType(POSTCARD,ListOf(CategoryWithNews))
      */
     inner class AdapterKey(
-        val itemViewType: ItemViewType,
+        /**
+         * ItemViewType corresponding to this maps values
+         */
+        val valueViewType: ItemViewType,
         val category: String,
-        var isHorizontal: Boolean = true
+        var isHorizontal: Boolean = true,
+        var showSectionTitle : Boolean = true
     ) {
         override fun equals(other: Any?): Boolean {
             if (other is AdapterKey) {
-                if (itemViewType == other.itemViewType && category == other.category)
+                if (valueViewType == other.valueViewType && category == other.category)
                     return true
             }
             return false;
         }
 
         override fun hashCode(): Int {
-            return itemViewType.ordinal + category.hashCode()
+            return valueViewType.ordinal + category.hashCode()
         }
     }
 
-    inner class AdapterItems(
-        val itemViewType: ItemViewType,
-        val items: List<AdapterDataItem>
+    /**
+     * BaseClass
+     */
+    abstract inner class BaseRowItem(
+        val itemViewType: ItemViewType
     )
+
+    /**
+     * Section title row with a category
+     */
+    inner class HeaderRowItem(
+        itemViewType: ItemViewType,
+        val sectionViewType: ItemViewType,
+        val category: String
+    ) : BaseRowItem(itemViewType)
+
+    /**
+     * Actual item row displaying a non section title ItemViewType
+     */
+    inner class RowItem(
+        itemViewType: ItemViewType,
+        /**
+         * List of [AdapterDataItem] to be passed to child adapter
+         */
+        val rowItemOrItems: List<AdapterDataItem>
+    ) : BaseRowItem(itemViewType)
 
     enum class ItemViewType {
         TRENDING,
@@ -84,42 +110,32 @@ class ParentListAdapter(
         }
         buildOrientationList()
 
-//        //Add section title view types
-//        val mutableList = list.toMutableList()
-//        val mutableIter = mutableList.listIterator()
-//        while (mutableIter.hasNext()) {
-//            val item = mutableIter.next()
-//            if (item.itemViewType == ItemViewType.POSTCARD) {
-//                mutableIter.previous()
-//                mutableIter.add(
-//                    AdapterItems(
-//                        ItemViewType.SECTION_TITLE,
-//                        item.items
-//                    )
-//                )
-//                mutableIter.next()
-//            }
-//        }
-//        adapterList = mutableList.toList()
 
     }
 
     fun buildOrientationList() {
         //Flattening the map into a useable list for adapters
-        val list = mutableListOf<AdapterItems>()
-        adapterMap.forEach { mapEntry ->
-            if (mapEntry.key.itemViewType==ItemViewType.POSTCARD) {
-                list.add(AdapterItems(ItemViewType.SECTION_TITLE,mapEntry.value))
+        val list = mutableListOf<BaseRowItem>()
+
+        adapterMap.forEach { mapEntry : Map.Entry<AdapterKey,List<AdapterDataItem>> ->
+            if (mapEntry.key.valueViewType == ItemViewType.POSTCARD) {
+                //Add a section title
+                if (mapEntry.key.showSectionTitle) {
+                    list.add(HeaderRowItem(
+                        ItemViewType.SECTION_TITLE,
+                        ItemViewType.POSTCARD,
+                        mapEntry.key.category))
+                }
             }
             //If vertical add 1 element per row
             if (!mapEntry.key.isHorizontal) {
                 for (adapterItem in mapEntry.value) {
-                    list.add(AdapterItems(mapEntry.key.itemViewType, listOf(adapterItem)))
+                    list.add(RowItem(mapEntry.key.valueViewType, listOf(adapterItem)))
                 }
             } else { //Horizontal so just add list
                 list.add(
-                    AdapterItems(
-                        mapEntry.key.itemViewType,
+                    RowItem(
+                        mapEntry.key.valueViewType,
                         mapEntry.value
                     )
                 )
@@ -131,69 +147,91 @@ class ParentListAdapter(
 
     fun changeCategoryOrientation(position: Int) {
         val adapterItem = adapterList.get(position)
-        if (adapterItem.items.isNotEmpty()) {
-            val aKey = AdapterKey(
-                adapterItem.itemViewType,
-                adapterItem.items.first().categoryTitle
-            )
-            for ((key,value) in adapterMap) {
-                if (aKey==key)
-                    aKey.isHorizontal = !aKey.isHorizontal
+        //Get section title for this position, switch it's isHorizontal
+        (adapterItem as HeaderRowItem)?.let {
+            //Construct key to find key in adapterMap
+            val key = getKeyForHeaderRowItem(adapterItem)?.let {
+                it.isHorizontal = !it.isHorizontal
             }
         }
+
         buildOrientationList()
+    }
+
+    private fun getKeyForHeaderRowItem(headerRowItem: HeaderRowItem) : AdapterKey? {
+        val aKey = AdapterKey(headerRowItem.sectionViewType,headerRowItem.category)
+        for ((key, value) in adapterMap) {
+            if (aKey == key)
+                return key
+        }
+        return null
     }
 
     override fun getItemViewType(position: Int): Int {
         return adapterList.get(position).itemViewType.ordinal
+
     }
 
-    inner class ParentViewHolder(view: View, adapterListener: AdapterListener) :
-        RecyclerView.ViewHolder(view) {
-        val recyclerView = view.child_recycler
+    inner class TitleViewHolder(view : View, adapterListener: AdapterListener) : RecyclerView.ViewHolder(view) {
         val categoryTextView = view.item_category
+        val dropDownArrow = view.drop_down_arrow
 
         init {
-            if (categoryTextView != null) {
-                view.setOnClickListener {
-                    Log.d(TAG, "Clicked on ${categoryTextView.text} position ${adapterPosition}")
-                    adapterListener.itemSelected(adapterPosition)
-                }
+            view.setOnClickListener {
+                Log.d(TAG, "Clicked on ${categoryTextView.text} position ${adapterPosition}")
+                adapterListener.itemSelected(adapterPosition)
             }
         }
 
-        fun onBind(adapterDataItem: AdapterDataItem) {
-            if (categoryTextView != null) {
-                categoryTextView.text = adapterDataItem.categoryTitle
+        fun bind(headerRowItem: HeaderRowItem) {
+            categoryTextView.text = headerRowItem.category
+            val key = getKeyForHeaderRowItem(headerRowItem)
+            key?.let {
+                dropDownArrow.rotation = if (it.isHorizontal) -90f else 0f
             }
+
         }
     }
 
 
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ParentViewHolder {
-        val view = when (viewType) {
+    inner class RowViewHolder(view: View) :
+        RecyclerView.ViewHolder(view) {
+        val recyclerView = view.child_recycler
+
+
+    }
+
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {
+
+        return when (viewType) {
             ItemViewType.SECTION_TITLE.ordinal -> {
-                LayoutInflater.from(parent.context)
+                val view = LayoutInflater.from(parent.context)
                     .inflate(R.layout.fragment_item_category, parent, false)
+                TitleViewHolder(view,listener)
             }
             ItemViewType.POSTCARD.ordinal -> {
-                LayoutInflater.from(parent.context)
+                val view = LayoutInflater.from(parent.context)
                     .inflate(R.layout.layout_recycler_view, parent, false)
+                RowViewHolder(view)
             }
-            else -> View(parent.context)
+            else -> RowViewHolder(View(parent.context))
         }
-        return ParentViewHolder(view, listener)
     }
 
     override fun getItemCount(): Int {
         return adapterList.size
     }
 
-    override fun onBindViewHolder(holder: ParentViewHolder, position: Int) {
+    override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {
 
-        val childAdapter = ChildListAdapter(adapterList.get(position).items)
+        val baseRowItem = adapterList.get(position)
         when (getItemViewType(position)) {
+
             ItemViewType.POSTCARD.ordinal -> {
+                val rowItem = baseRowItem as RowItem
+                val holder = holder as RowViewHolder
+                val childAdapter = ChildListAdapter(rowItem.rowItemOrItems)
                 holder.recyclerView.apply {
                     setRecycledViewPool(viewPool)
                     adapter = childAdapter
@@ -203,8 +241,9 @@ class ParentListAdapter(
                 }
             }
             ItemViewType.SECTION_TITLE.ordinal -> {
-                if (adapterList.get(position).items.isNotEmpty())
-                    holder.onBind(adapterList.get(position).items.first())
+                val headerRowItem = baseRowItem as HeaderRowItem
+                val holder = holder as TitleViewHolder
+                holder.bind(headerRowItem)
             }
         }
 
