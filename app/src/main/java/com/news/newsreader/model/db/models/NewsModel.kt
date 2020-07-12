@@ -4,12 +4,13 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 import com.news.newsreader.model.AdapterDataItem
 
-@Entity(tableName = "news_item")
+@Entity
 data class NewsModel (
-    @PrimaryKey val guid : String = "",
+    val guid : String = "",
     override val title : String = "",
     override val link : String = "",
     override val description : String = "",
     override val imageUrl : String = "",
-    val parentCategory : String = ""
+    val parentFeedId : Long,
+    @PrimaryKey(autoGenerate = true) val newsItemId : Long = 0
 ) : AdapterDataItem

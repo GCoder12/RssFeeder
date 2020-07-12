@@ -15,12 +15,12 @@ interface NewsDao {
 
     @Transaction
     @Query("SELECT * from newscategorymodel")
-    fun getNewsWithCategories() : LiveData<List<NewsCategoryModel>>
+    fun getNewsCategoriesList(): LiveData<List<CategoryWithNews>>
 
     @TestOnly
     @Transaction
     @Query("SELECT * from newscategorymodel")
-    fun getNewsWithCategoriesListOnly() : List<CategoryWithNews>
+    fun getNewsCategoriesListOnly(): List<CategoryWithNews>
 
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insert(newsCategoryModel: NewsCategoryModel)
@@ -29,5 +29,8 @@ interface NewsDao {
     suspend fun insert(newsModel: NewsModel)
 
     @Query("DELETE FROM newscategorymodel")
-    suspend fun deleteAll()
+    suspend fun deleteCategories()
+
+    @Query("DELETE FROM newsmodel")
+    suspend fun deleteNewsItems()
 }

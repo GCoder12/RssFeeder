@@ -7,6 +7,7 @@ import androidx.lifecycle.viewModelScope
 import com.news.newsreader.model.api.ApiService
 import com.news.newsreader.model.db.models.NewsModel
 import com.news.newsreader.model.db.NewsRoomDatabase
+import com.news.newsreader.model.db.models.CategoryWithNews
 import com.news.newsreader.model.db.models.NewsCategoryModel
 import com.news.newsreader.model.repo.Repository
 import com.news.newsreader.model.repo.RepositoryImpl
@@ -20,7 +21,7 @@ class NewsViewModel(
 
     var repository : Repository
 
-    val items : LiveData<List<NewsCategoryModel>>
+    val items : LiveData<List<CategoryWithNews>>
 
     init {
         val database = NewsRoomDatabase.getDatabase(application,viewModelScope)
@@ -31,7 +32,7 @@ class NewsViewModel(
 
     fun fetchNewsItems() {
          viewModelScope.launch(Dispatchers.IO) {
-         repository.getNewsItems()
+            repository.getCategoriesWithNews()
          }
     }
 

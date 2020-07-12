@@ -7,8 +7,8 @@ import androidx.room.Relation
 data class CategoryWithNews (
     @Embedded val newsCategoryModel : NewsCategoryModel,
     @Relation(
-        parentColumn = "category",
-        entityColumn = "parentCategory"
+        parentColumn = "feedId",
+        entityColumn = "parentFeedId"
     )
     val newsModel : List<NewsModel>
 )

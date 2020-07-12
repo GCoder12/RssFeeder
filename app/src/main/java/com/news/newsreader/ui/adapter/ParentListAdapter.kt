@@ -6,7 +6,8 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.news.newsreader.R
-import com.news.newsreader.model.AdapterDataItem
+import com.news.newsreader.model.db.models.CategoryWithNews
+import com.news.newsreader.model.db.models.NewsCategoryModel
 import kotlinx.android.synthetic.main.layout_recycler_view.view.*
 
 /**
@@ -15,7 +16,7 @@ import kotlinx.android.synthetic.main.layout_recycler_view.view.*
  * Will also handle section title views, I.E. for categories/channels
  */
 class ParentListAdapter(
-    val twoDimenList : List<List<AdapterDataItem>>
+    val categoryWithNews : List<CategoryWithNews>
 ) : RecyclerView.Adapter<ParentListAdapter.ParentViewHolder>() {
 
     private val viewPool = RecyclerView.RecycledViewPool()
@@ -33,12 +34,12 @@ class ParentListAdapter(
     }
 
     override fun getItemCount(): Int {
-        return twoDimenList.size
+        return categoryWithNews.size
     }
 
     override fun onBindViewHolder(holder: ParentViewHolder, position: Int) {
 
-        val childAdapter = ChildListAdapter(twoDimenList.get(position))
+        val childAdapter = ChildListAdapter(categoryWithNews.get(position).newsModel)
         holder.recyclerView.apply {
             setRecycledViewPool(viewPool)
             this.adapter = childAdapter

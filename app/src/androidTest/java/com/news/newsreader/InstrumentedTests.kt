@@ -4,10 +4,10 @@ import android.content.Context
 import android.util.Log
 import androidx.room.Room
 import androidx.test.core.app.ApplicationProvider
+import com.news.newsreader.model.api.ApiService
 import com.news.newsreader.model.db.NewsDao
 import com.news.newsreader.model.db.models.NewsModel
 import com.news.newsreader.model.db.NewsRoomDatabase
-import com.news.newsreader.model.db.models.CategoryWithNews
 import com.news.newsreader.model.db.models.NewsCategoryModel
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
@@ -34,21 +34,33 @@ class InstrumentedTests {
 
     @Test
     fun testWrite() = runBlocking<Unit> {
+        val cat1 = "category1"
+        val cat2 = "category2"
         launch {
-            val newsModel = NewsModel(
+            val newsModel1 = NewsModel(
                 "guid",
                 "title",
                 "link",
                 "desc",
                 "imageUrl",
-                "category"
+                cat1.hashCode().toLong()
             )
-            val newsCategory = NewsCategoryModel("category")
+            val newsModel2 = NewsModel(
+                "guid",
+                "title",
+                "link",
+                "desc",
+                "imageUrl",
+                cat2.hashCode().toLong()
+            )
 
-            dao.insert(newsCategory)
-            dao.insert(newsModel)
-            val list = dao.getNewsWithCategoriesListOnly()
-            Log.d("TESTS", "LIST is $list")
+
+            dao.insert(NewsCategoryModel(cat1))
+            dao.insert(NewsCategoryModel(cat2))
+            dao.insert(newsModel1)
+            dao.insert(newsModel2)
+            val list = dao.getNewsCategoriesListOnly()
+            Log.d("TESTS", "LIST is ${list}")
             assert(list != null)
         }
     }
