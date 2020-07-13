@@ -5,18 +5,11 @@ import android.content.Context
 import android.content.res.AssetManager
 import com.news.newsreader.model.api.ApiService
 import com.news.newsreader.model.db.models.NewsModel
-import com.news.newsreader.model.repo.RepositoryImpl
+import com.news.newsreader.model.repo.Repository
 import com.news.newsreader.ui.NewsViewModel
 import com.nhaarman.mockitokotlin2.mock
-import org.json.JSONObject
 import org.junit.Test
-import org.mockito.ArgumentMatchers
-import org.mockito.ArgumentMatchers.*
 import org.mockito.Mockito.`when`
-import org.mockito.Mockito.any
-import java.io.BufferedReader
-import java.io.InputStream
-import java.io.InputStreamReader
 
 
 class UnitTests {
@@ -33,7 +26,7 @@ class UnitTests {
     @Test
     fun testMockingNonInterface() {
         val application: Application = mock()
-        val repository: RepositoryImpl = mock()
+        val repository: Repository = mock()
         val viewModel = NewsViewModel(application)
         viewModel.repository = repository
         viewModel.fetchNewsItems()

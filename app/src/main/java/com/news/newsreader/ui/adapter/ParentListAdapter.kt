@@ -29,12 +29,12 @@ class ParentListAdapter(
     val adapterMap: MutableMap<AdapterKey, List<AdapterDataItem>> = mutableMapOf()
 
     /**
-     * AdapterItemType(Trending,ListOf(TrendingObjects))
-     * AdapterItemType(POSTCARD,ListOf(CategoryWithNews))
+     * Key for adapterMap, whose value is a section of rows, (horizontal or vertical)
+     * that correspond to a itemViewType
      */
     inner class AdapterKey(
         /**
-         * ItemViewType corresponding to this maps values
+         * ItemViewType corresponding to the map's values
          */
         val valueViewType: ItemViewType,
         val category: String,
@@ -113,6 +113,9 @@ class ParentListAdapter(
 
     }
 
+    /**
+     * This will reset orientation for sections that have been toggled between vertical or horizontal
+     */
     fun buildOrientationList() {
         //Flattening the map into a useable list for adapters
         val list = mutableListOf<BaseRowItem>()
@@ -145,6 +148,9 @@ class ParentListAdapter(
         adapterList = list.toMutableList()
     }
 
+    /**
+     * Finds the section, and toggles flag for orientation of this section of items
+     */
     fun changeCategoryOrientation(position: Int) {
         val adapterItem = adapterList.get(position)
         //Get section title for this position, switch it's isHorizontal
@@ -158,6 +164,9 @@ class ParentListAdapter(
         buildOrientationList()
     }
 
+    /**
+     * Helper function get key in map from a HeaderRowItem
+     */
     private fun getKeyForHeaderRowItem(headerRowItem: HeaderRowItem) : AdapterKey? {
         val aKey = AdapterKey(headerRowItem.sectionViewType,headerRowItem.category)
         for ((key, value) in adapterMap) {
@@ -167,11 +176,9 @@ class ParentListAdapter(
         return null
     }
 
-    override fun getItemViewType(position: Int): Int {
-        return adapterList.get(position).itemViewType.ordinal
-
-    }
-
+    /**
+     * View Holder for showing category title of a section of rows
+     */
     inner class TitleViewHolder(view : View, adapterListener: AdapterListener) : RecyclerView.ViewHolder(view) {
         val categoryTextView = view.item_category
         val dropDownArrow = view.drop_down_arrow
@@ -194,6 +201,9 @@ class ParentListAdapter(
     }
 
 
+    /**
+     * View holder for all row items that are not a title section row
+     */
     inner class RowViewHolder(view: View) :
         RecyclerView.ViewHolder(view) {
         val recyclerView = view.child_recycler
@@ -201,6 +211,9 @@ class ParentListAdapter(
 
     }
 
+    override fun getItemViewType(position: Int): Int {
+        return adapterList.get(position).itemViewType.ordinal
+    }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {
 

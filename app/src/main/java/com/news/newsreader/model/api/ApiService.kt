@@ -4,7 +4,7 @@ import com.news.newsreader.DataHelper
 import com.news.newsreader.model.db.models.NewsModel
 
 /**
- * Gets data for feed from web
+ * Fake web data
  */
 class ApiService(val helper: DataHelper) {
 
