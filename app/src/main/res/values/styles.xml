@@ -2,9 +2,12 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimary">@color/primaryColor</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="colorOnSurface">@color/primaryColor</item>
+        <item name="colorSecondary">@color/colorPrimaryDark</item>
     </style>
 
     <style name="CredTextView" parent="Widget.AppCompat.TextView">

@@ -5,6 +5,7 @@ import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.viewModelScope
+import com.news.newsreader.DataHelper
 import com.news.newsreader.model.api.ApiService
 import com.news.newsreader.model.db.NewsRoomDatabase
 import com.news.newsreader.model.db.models.CategoryWithNews
@@ -23,19 +24,22 @@ class NewsViewModel(
     var repository: RepositoryImpl
 
     val items: LiveData<List<CategoryWithNews>>
-    val categories: MutableLiveData<List<NewsCategoryModel>> by lazy {
-        MutableLiveData<List<NewsCategoryModel>>()
-    }
+    val categories: LiveData<List<NewsCategoryModel>>
 
 
     init {
         val database = NewsRoomDatabase.getDatabase(application, viewModelScope)
-        val service = ApiService()
+        val service = ApiService(DataHelper.getInstance(application))
         repository = RepositoryImpl(database.NewsDao(), service)
-        items = (repository as RepositoryImpl).items
+        items = repository.items
+        categories = repository.categories
     }
 
-
+    fun updateDisplayedNews(categoriesToDisplay : List<String>) {
+        viewModelScope.launch(Dispatchers.IO) {
+            repository.updateDisplayedCategories(categoriesToDisplay)
+        }
+    }
 
     fun fetchNewsItems() {
         viewModelScope.launch(Dispatchers.IO) {

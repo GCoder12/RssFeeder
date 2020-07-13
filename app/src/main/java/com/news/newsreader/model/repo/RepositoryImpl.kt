@@ -64,6 +64,8 @@ class RepositoryImpl(
                 newsDao.update(newsCategoryModel)
             }
         }
+        //Fire observer
+        newsDao.getNewsCategoriesToDisplay()
     }
 
     suspend fun getPossibleCategories() : LiveData<List<NewsCategoryModel>> {

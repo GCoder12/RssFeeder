@@ -65,6 +65,7 @@ class MainActivity : AppCompatActivity() {
         if (requestCode==REQUEST_CODE && resultCode == Activity.RESULT_OK) {
             data?.let {
                 val categoriesSelected = it.getStringArrayListExtra(Constants.KEY_EXTRA_SELECTED_CATEGORIES)
+                viewModel.updateDisplayedNews(categoriesSelected)
                 Log.d(TAG,"Categories selected ${categoriesSelected}")
             }
 

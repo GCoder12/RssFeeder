@@ -3,7 +3,7 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <!--   a secondary color for controls like checkboxes and text fields -->
-    <color name="colorAccent"></color>
+    <color name="colorAccent">@color/primaryColor</color>
 
     <color name="primaryColor">#2196F3</color>
     <color name="primaryLightColor">#CCCBCB</color>

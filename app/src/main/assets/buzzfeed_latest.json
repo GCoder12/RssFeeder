@@ -1,0 +1,1378 @@
+{
+  "version": "2.0",
+  "channel": {
+    "title": "BuzzFeed - Latest",
+    "link": [
+      "https://www.buzzfeed.com/index",
+      {
+        "href": "https://www.buzzfeed.com/index.xml",
+        "rel": "self"
+      }
+    ],
+    "language": "en",
+    "copyright": "Copyright 2020 BuzzFeed, Inc.",
+    "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you’ll want to share with your friends. Copyright BuzzFeed, Inc. All rights reserved.",
+    "lastBuildDate": "Mon, 13 Jul 2020 00:43:33 +0000",
+    "managingEditor": "editor@buzzfeed.com (https://www.buzzfeed.com/about)",
+    "webMaster": "editor@buzzfeed.com (https://www.buzzfeed.com/about)",
+    "image": {
+      "url": "https://webappstatic.buzzfeed.com/static/images/public/rss/logo.png",
+      "title": "BuzzFeed - Latest",
+      "link": "https://www.buzzfeed.com/index"
+    },
+    "item": [
+      {
+        "title": "21 Kids Movies That Dealt With Way Deeper Issues Than We Thought",
+        "description": "<h1><\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/20/tmp/7c3398d1df25/tmp-name-2-3678-1594585184-39_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/shylawatson/dark-kids-movies-reddit\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/shylawatson/dark-kids-movies-reddit",
+        "pubDate": "Sun, 12 Jul 2020 20:29:48 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/shylawatson/dark-kids-movies-reddit"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/20/tmp/7c3398d1df25/tmp-name-2-3678-1594585184-39_dblbig.jpg"
+        }
+      },
+      {
+        "title": "30 Useful Products That Little Annoying Problems Are No Match For",
+        "description": "<h1>For your beauty, home, cleaning, and small everyday woes.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/enhanced/d199b4073243/original-3104-1594330709-2.jpg?crop=1241:827;0,0\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/kaylasuazo/useful-products-that-little-annoying-problems-are-no\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/kaylasuazo/useful-products-that-little-annoying-problems-are-no",
+        "pubDate": "Mon, 13 Jul 2020 00:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/kaylasuazo/useful-products-that-little-annoying-problems-are-no"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/enhanced/d199b4073243/original-3104-1594330709-2.jpg?crop=1241:827;0,0"
+        }
+      },
+      {
+        "title": "We Know Your Age Based On If You Love Or Hate These 20 Desserts",
+        "description": "<h1>If you like carrot cake, I'm judging you.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/22/enhanced/f4efb87878f0/original-3154-1594332097-4.jpg?crop=1243:829;0,0\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/ajanibazile/love-hate-desserts-age-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/ajanibazile/love-hate-desserts-age-quiz",
+        "pubDate": "Mon, 13 Jul 2020 00:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/ajanibazile/love-hate-desserts-age-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/22/enhanced/f4efb87878f0/original-3154-1594332097-4.jpg?crop=1243:829;0,0"
+        }
+      },
+      {
+        "title": "Respond To 10 Scenarios And We'll Tell You If You're A Bad Roommate",
+        "description": "<h1>Are you the problem?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/18/enhanced/e4e87579481a/original-2697-1594319259-43.jpg?crop=1244:829;0,0\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/natashajokic1/bad-roommate-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/natashajokic1/bad-roommate-quiz",
+        "pubDate": "Sun, 12 Jul 2020 23:46:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/natashajokic1/bad-roommate-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/18/enhanced/e4e87579481a/original-2697-1594319259-43.jpg?crop=1244:829;0,0"
+        }
+      },
+      {
+        "title": "28 Summertime Problem-Solving Products You’ll Probably Wish You’d Known About Sooner",
+        "description": "<h1>Small problems — from sweaty feet (antiperspirant lotion) to the sun’s glare (~polarized~ sunglasses) — solved.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/18/campaign_images/bf3bc41af790/28-summertime-problem-solving-products-youll-prob-2-402-1594406519-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/nataliebrown/summertime-problem-solving-products-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/nataliebrown/summertime-problem-solving-products-2020",
+        "pubDate": "Tue, 07 Jul 2020 00:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/nataliebrown/summertime-problem-solving-products-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/18/campaign_images/bf3bc41af790/28-summertime-problem-solving-products-youll-prob-2-402-1594406519-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Just 30 Random Products We Really Love",
+        "description": "<h1>High-rise bike shorts, a very good pre-seasoned skillet, anti-nausea ginger gum, and other products we (the BuzzFeed Shopping & Products team) truly adore.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/20/tmp/f452be43adf4/tmp-name-2-1083-1594068474-42_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/anamariaglavan/random-products-we-really-love-july-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/anamariaglavan/random-products-we-really-love-july-2020",
+        "pubDate": "Thu, 09 Jul 2020 00:01:07 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/anamariaglavan/random-products-we-really-love-july-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/20/tmp/f452be43adf4/tmp-name-2-1083-1594068474-42_dblbig.jpg"
+        }
+      },
+      {
+        "title": "36 Products With Before-And-After Photos That’ll Probably Make You Think \"I'm Sold\"",
+        "description": "<h1>These photos just might win over your inner skeptic.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/18/campaign_images/7dc93c7d4da5/36-products-with-before-and-after-photos-thatll-m-2-7683-1593540983-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/yiyang/products-with-before-and-after-photos-thatll-probably\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/yiyang/products-with-before-and-after-photos-thatll-probably",
+        "pubDate": "Thu, 09 Jul 2020 10:01:06 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/yiyang/products-with-before-and-after-photos-thatll-probably"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/18/campaign_images/7dc93c7d4da5/36-products-with-before-and-after-photos-thatll-m-2-7683-1593540983-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "34 Splurge-Worthy Products You'll Probably Use Over And Over Again",
+        "description": "<h1>Whether you're into luxury sheets, must-have fashion statement pieces, or eco-friendly cleaning kits, these products will probably give you the urge to splurge.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/1/19/tmp/0b6f9696f3a2/tmp-name-2-1958-1593632312-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/malloryannp/splurge-worthy-products-youll-probably-use-over-and-over\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/malloryannp/splurge-worthy-products-youll-probably-use-over-and-over",
+        "pubDate": "Wed, 08 Jul 2020 18:00:34 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/malloryannp/splurge-worthy-products-youll-probably-use-over-and-over"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/1/19/tmp/0b6f9696f3a2/tmp-name-2-1958-1593632312-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "25 Problem-Solving Products For Your Next Outdoor Workout",
+        "description": "<h1>Say buh-bye to sweat, blisters, and dehydration while you get movin' outside.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/1/19/tmp/0b6f9696f3a2/tmp-name-2-1958-1593632252-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/genevievescarano/problem-solving-products-for-outdoor-workout\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/genevievescarano/problem-solving-products-for-outdoor-workout",
+        "pubDate": "Thu, 09 Jul 2020 11:00:29 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/genevievescarano/problem-solving-products-for-outdoor-workout"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/1/19/tmp/0b6f9696f3a2/tmp-name-2-1958-1593632252-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Can You Guess The Teen Drama In 11 Words Or Less?",
+        "description": "<h1>\"We both like burritos.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/17/tmp/f5fb6f3769d8/tmp-name-2-2601-1594316193-21_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/shelbyheinrich/teen-drama-quotes-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/shelbyheinrich/teen-drama-quotes-quiz",
+        "pubDate": "Sun, 12 Jul 2020 23:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/shelbyheinrich/teen-drama-quotes-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/17/tmp/f5fb6f3769d8/tmp-name-2-2601-1594316193-21_dblbig.jpg"
+        }
+      },
+      {
+        "title": "A Cop Allegedly Shot And Killed A Fellow Officer After Threatening To Shoot Protestors",
+        "description": "<h1>Calvin \"Nick\" Salyers is accused of killing his colleague, Scott Hutton, through his front door after Hutton stopped by his home to pick up a patrol car.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/23/campaign_images/20ed5e5b95b8/a-cop-accused-of-killing-a-fellow-officer-had-all-2-3963-1594595337-11_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/stephaniemcneal/alexander-police-officer-charged-fatal-shooting-fellow\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/stephaniemcneal/alexander-police-officer-charged-fatal-shooting-fellow",
+        "pubDate": "Sun, 12 Jul 2020 23:08:31 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/stephaniemcneal/alexander-police-officer-charged-fatal-shooting-fellow"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/23/campaign_images/20ed5e5b95b8/a-cop-accused-of-killing-a-fellow-officer-had-all-2-3963-1594595337-11_dblbig.jpg"
+        }
+      },
+      {
+        "title": "We Asked People Why They Use Glory Holes. Boy, Did They Answer.",
+        "description": "<h1>Historically associated with gay male culture, the glory hole is a remarkably durable form of sexual expression that both straights and gays use to this day.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/0/campaign_images/20ed5e5b95b8/we-asked-people-why-they-use-glory-holes-boy-did--2-884-1594426784-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/pdominguez/glory-hole-stories-sex-week\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/pdominguez/glory-hole-stories-sex-week",
+        "pubDate": "Fri, 10 Jul 2020 22:23:29 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/pdominguez/glory-hole-stories-sex-week"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/0/campaign_images/20ed5e5b95b8/we-asked-people-why-they-use-glory-holes-boy-did--2-884-1594426784-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Quitting Sex Was The Best Thing I Ever Did For Myself",
+        "description": "<h1>My sex life as a fat woman was a trickle of accumulated humiliations and loneliness, so I decided to try enjoying my own company instead.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/campaign_images/7c3398d1df25/quitting-sex-was-the-best-thing-i-ever-did-for-my-2-293-1594403677-29_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/laurabogart/sex-celibate-dating-weight-body-image\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/laurabogart/sex-celibate-dating-weight-body-image",
+        "pubDate": "Thu, 09 Jul 2020 17:58:21 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/laurabogart/sex-celibate-dating-weight-body-image"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/campaign_images/7c3398d1df25/quitting-sex-was-the-best-thing-i-ever-did-for-my-2-293-1594403677-29_dblbig.jpg"
+        }
+      },
+      {
+        "title": "5 Sex Workers Talk About Doing Their Jobs During COVID-19",
+        "description": "<h1>Five people who had been doing in-person sex work before the pandemic talk about how they are managing — mentally and financially — in a new reality.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/22/campaign_images/2374151cab63/5-sex-workers-talk-about-doing-their-jobs-during--2-1098-1594248683-14_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/fancyfeast/sex-work-from-home-stripping-bdsm-pandemic\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/fancyfeast/sex-work-from-home-stripping-bdsm-pandemic",
+        "pubDate": "Wed, 08 Jul 2020 19:25:04 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/fancyfeast/sex-work-from-home-stripping-bdsm-pandemic"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/22/campaign_images/2374151cab63/5-sex-workers-talk-about-doing-their-jobs-during--2-1098-1594248683-14_dblbig.jpg"
+        }
+      },
+      {
+        "title": "The Art Of Sitting On Men's Faces",
+        "description": "<h1>The ass is an opening into a world that doesn’t have to be this one.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/18/campaign_images/2374151cab63/the-art-of-sitting-on-mens-faces-2-599-1594233665-26_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/marcosgonsalez/the-art-of-sitting-on-mens-faces\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/marcosgonsalez/the-art-of-sitting-on-mens-faces",
+        "pubDate": "Wed, 08 Jul 2020 16:36:34 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/marcosgonsalez/the-art-of-sitting-on-mens-faces"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/18/campaign_images/2374151cab63/the-art-of-sitting-on-mens-faces-2-599-1594233665-26_dblbig.jpg"
+        }
+      },
+      {
+        "title": "After My Marriage Ended, I Started Having The Sex I Really Wanted",
+        "description": "<h1>The sex I’ve had since I left my marriage has given me a way to live in the present and ask for my present needs — and made me realize how much that freedom means.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/11/campaign_images/361344fea3da/the-end-of-my-marriage-was-the-start-of-the-sex-l-2-1546-1594468164-16_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/evahagberg/sex-divorce-marriage-dating\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/evahagberg/sex-divorce-marriage-dating",
+        "pubDate": "Sat, 11 Jul 2020 11:49:27 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/evahagberg/sex-divorce-marriage-dating"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/11/campaign_images/361344fea3da/the-end-of-my-marriage-was-the-start-of-the-sex-l-2-1546-1594468164-16_dblbig.jpg"
+        }
+      },
+      {
+        "title": "How Many A24 Films Have You Seen?",
+        "description": "<h1>Indie movies all the way.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/ca18cb12c154/tmp-name-2-275-1594402745-14_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/jesscobain/are-you-a-real-a24-fan-1nercl15zm\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/jesscobain/are-you-a-real-a24-fan-1nercl15zm",
+        "pubDate": "Thu, 25 Jun 2020 19:41:56 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/jesscobain/are-you-a-real-a24-fan-1nercl15zm"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/ca18cb12c154/tmp-name-2-275-1594402745-14_dblbig.jpg"
+        }
+      },
+      {
+        "title": "17 Tumblr Posts That Are Just Plain Funny",
+        "description": "<h1>Nothing fancy, just good ol' funny Tumblr posts.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/acefdc97ffb1/tmp-name-2-2915-1594326082-45_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/andyneuenschwander/random-funny-tumblr-posts\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/andyneuenschwander/random-funny-tumblr-posts",
+        "pubDate": "Sun, 12 Jul 2020 22:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/andyneuenschwander/random-funny-tumblr-posts"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/acefdc97ffb1/tmp-name-2-2915-1594326082-45_dblbig.jpg"
+        }
+      },
+      {
+        "title": "25 Things That’ll Help You And Your Pet Make The Most Out Of Your Backyard",
+        "description": "<h1>Including a dog bed with a canopy, a cat harness, a cooling mat, and other presents that'll finally earn you your pet's love.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/f5fb6f3769d8/tmp-name-2-3001-1594328306-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/melanie_aman/outdoor-pet-products-make-most-of-backyard\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/melanie_aman/outdoor-pet-products-make-most-of-backyard",
+        "pubDate": "Sun, 12 Jul 2020 22:00:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/melanie_aman/outdoor-pet-products-make-most-of-backyard"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/f5fb6f3769d8/tmp-name-2-3001-1594328306-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Girls Are Sharing Things Guys Think Are Cool That They Actually Hate, So Men, Take Note",
+        "description": "<h1>Why do they spit off to the side like that???<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/22/tmp/05168d8ba1ac/tmp-name-2-3857-1594591206-4_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/shylawatson/things-guys-do-that-turn-women-off\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/shylawatson/things-guys-do-that-turn-women-off",
+        "pubDate": "Sun, 12 Jul 2020 21:57:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/shylawatson/things-guys-do-that-turn-women-off"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/22/tmp/05168d8ba1ac/tmp-name-2-3857-1594591206-4_dblbig.jpg"
+        }
+      },
+      {
+        "title": "These Brainteasers About European Countries Will Stump Most People — Especially Americans",
+        "description": "<h1>No consonants, no problem!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/15/tmp/f5fb6f3769d8/tmp-name-2-2353-1594307016-1_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/andrewziegler/quiz-brainteasers-europe-vowels\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/andrewziegler/quiz-brainteasers-europe-vowels",
+        "pubDate": "Sun, 12 Jul 2020 21:45:14 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/andrewziegler/quiz-brainteasers-europe-vowels"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/15/tmp/f5fb6f3769d8/tmp-name-2-2353-1594307016-1_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Trump Has Commuted The Prison Sentence Of His “Loyal” Ally Roger Stone",
+        "description": "<h1>Stone was convicted of lying to Congress about his communications with WikiLeaks leading up to the 2016 election.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/0/campaign_images/ca18cb12c154/trump-has-commuted-the-prison-sentence-of-his-loy-2-859-1594428447-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/zoetillman/roger-stone-trump-russia-wikileaks-mueller-sentence\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/zoetillman/roger-stone-trump-russia-wikileaks-mueller-sentence",
+        "pubDate": "Sat, 11 Jul 2020 00:31:29 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/zoetillman/roger-stone-trump-russia-wikileaks-mueller-sentence"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/0/campaign_images/ca18cb12c154/trump-has-commuted-the-prison-sentence-of-his-loy-2-859-1594428447-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "The Search For \"Glee\" Actor Naya Rivera Is Now Focused On Recovering Her Body",
+        "description": "<h1>Video footage released by the Ventura County Sheriff’s Department shows Rivera and her son renting the boat she later disappeared from.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/0/campaign_images/20ed5e5b95b8/the-search-for-glee-actor-naya-rivera-is-now-focu-2-877-1594427422-2_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/craigsilverman/naya-rivera-missing-video-911-call\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/craigsilverman/naya-rivera-missing-video-911-call",
+        "pubDate": "Fri, 10 Jul 2020 14:13:03 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/craigsilverman/naya-rivera-missing-video-911-call"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/0/campaign_images/20ed5e5b95b8/the-search-for-glee-actor-naya-rivera-is-now-focu-2-877-1594427422-2_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Ghislaine Maxwell, Jeffrey Epstein's Ex-Girlfriend, Denied Charges That She Helped Him Sexually Abuse Girls",
+        "description": "<h1>Attorneys for Maxwell, a British socialite who had a relationship with Epstein in the '90s, argued that she had not spoken to him for more than 10 years.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/19/campaign_images/05168d8ba1ac/ghislaine-maxwell-jeffrey-epsteins-ex-girlfriend--2-405-1594407643-24_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/salvadorhernandez/ghislaine-maxwell-denied-charges-jeffrey-epstein-abuse\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/salvadorhernandez/ghislaine-maxwell-denied-charges-jeffrey-epstein-abuse",
+        "pubDate": "Fri, 10 Jul 2020 18:59:35 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/salvadorhernandez/ghislaine-maxwell-denied-charges-jeffrey-epstein-abuse"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/19/campaign_images/05168d8ba1ac/ghislaine-maxwell-jeffrey-epsteins-ex-girlfriend--2-405-1594407643-24_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Costco Didn’t Enforce Its Dress Code — Until Employees Started Wearing Black Lives Matter Masks",
+        "description": "<h1>The retail giant's policies require workers to look “professional,” but employees say managers ignored it until some employees started wearing masks that Costco calls “political.”<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/21/campaign_images/361344fea3da/costco-didnt-enforce-its-dress-code-until-employe-2-628-1594415097-13_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/briannasacks/costco-black-lives-matter-masks-dress-code\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/briannasacks/costco-black-lives-matter-masks-dress-code",
+        "pubDate": "Fri, 10 Jul 2020 18:58:09 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/briannasacks/costco-black-lives-matter-masks-dress-code"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/21/campaign_images/361344fea3da/costco-didnt-enforce-its-dress-code-until-employe-2-628-1594415097-13_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Goya Is Facing A Boycott After Its CEO Said The US Is \"Blessed\" That Trump Is President",
+        "description": "<h1>Bob Unanue's comments at the White House have prompted a boycott from angry customers.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/13/tmp/5bf9a5079c01/tmp-name-2-4343-1594389244-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/davidmack/goya-foods-ceo-trump-praise-backlash\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/davidmack/goya-foods-ceo-trump-praise-backlash",
+        "pubDate": "Fri, 10 Jul 2020 14:04:59 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/davidmack/goya-foods-ceo-trump-praise-backlash"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/13/tmp/5bf9a5079c01/tmp-name-2-4343-1594389244-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Save One Food Per Category And We'll Reveal What Type Of Bread Matches Your Personality",
+        "description": "<h1>\"I love bread!\" — Oprah (2016)<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/20ed5e5b95b8/tmp-name-2-282-1594402149-1_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/natkag/which-bread-are-you-based-on-the-foods-you-safe-8x7prcsgrh\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/natkag/which-bread-are-you-based-on-the-foods-you-safe-8x7prcsgrh",
+        "pubDate": "Fri, 10 Jul 2020 14:10:26 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/natkag/which-bread-are-you-based-on-the-foods-you-safe-8x7prcsgrh"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/20ed5e5b95b8/tmp-name-2-282-1594402149-1_dblbig.jpg"
+        }
+      },
+      {
+        "title": "29 People Shared The Things They Learned Embarrassingly Late, And I'm At A Loss",
+        "description": "<h1>\"I thought the phrase 'mix by hand' meant to literally shove your hands in the batter and mix.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/1/tmp/f4efb87878f0/tmp-name-2-1305-1594256517-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/asiawmclain/embarrassing-things-people-just-learned\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/asiawmclain/embarrassing-things-people-just-learned",
+        "pubDate": "Sun, 12 Jul 2020 21:16:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/asiawmclain/embarrassing-things-people-just-learned"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/1/tmp/f4efb87878f0/tmp-name-2-1305-1594256517-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "31 Sex Toys That Are As Beautiful As They Are Effective",
+        "description": "<h1>Toys that are good for the eyes and good for *ahem* elsewhere.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/2/tmp/5f9676a03016/tmp-name-2-3784-1594175732-11_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/bekoconnell/sex-toys-that-are-as-beautiful-as-they-are-effecti\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/bekoconnell/sex-toys-that-are-as-beautiful-as-they-are-effecti",
+        "pubDate": "Sun, 12 Jul 2020 21:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/bekoconnell/sex-toys-that-are-as-beautiful-as-they-are-effecti"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/2/tmp/5f9676a03016/tmp-name-2-3784-1594175732-11_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If You're Missing Travel, Sign Up For Our \"Virtual Vacation\" Newsletter",
+        "description": "<h1>See the world (virtually) with travel quizzes, online experiences, inspiration for future trips, and recipes from around the globe.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-04/24/16/campaign_images/5a9f47515cde/travel-from-your-couch-with-our-virtual-vacation--2-209-1587747097-4_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/kirbybeaton/virtual-vacation-newsletter-bring-me\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/kirbybeaton/virtual-vacation-newsletter-bring-me",
+        "pubDate": "Mon, 27 Apr 2020 18:50:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/kirbybeaton/virtual-vacation-newsletter-bring-me"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-04/24/16/campaign_images/5a9f47515cde/travel-from-your-couch-with-our-virtual-vacation--2-209-1587747097-4_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Are You A Real Adult? Decide If These Foods Are A Meal Or A Snack To Find Out",
+        "description": "<h1>Do you think instant ramen constitutes a meal? Tell the truth.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/17/campaign_images/686b5819d040/decide-if-these-food-are-a-meal-or-a-snack-and-we-2-2657-1594317069-15_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/evelinamedina/food-meal-or-snack-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/evelinamedina/food-meal-or-snack-quiz",
+        "pubDate": "Sun, 12 Jul 2020 20:46:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/evelinamedina/food-meal-or-snack-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/17/campaign_images/686b5819d040/decide-if-these-food-are-a-meal-or-a-snack-and-we-2-2657-1594317069-15_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If You Know Even The Slightest Bit About “Harry Potter,” I Bet You Will Get 10/15 On This Quiz",
+        "description": "<h1>I bet even you can do this.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/23/campaign_images/686b5819d040/if-you-know-even-the-slightest-bit-about-harry-po-2-3245-1594335829-36_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/jamiespain/easy-harry-potter-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/jamiespain/easy-harry-potter-quiz",
+        "pubDate": "Tue, 07 Jul 2020 17:45:16 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/jamiespain/easy-harry-potter-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/23/campaign_images/686b5819d040/if-you-know-even-the-slightest-bit-about-harry-po-2-3245-1594335829-36_dblbig.jpg"
+        }
+      },
+      {
+        "title": "This Is — I Cannot Stress This Enough — The Easiest Movie Knowledge Quiz Of All Time",
+        "description": "<h1>This is not a trick, I promise.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/3/17/tmp/2537e25911df/tmp-name-2-13572-1593797541-1_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/alliehayes/easiest-movie-quiz-youll-ever-take\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/alliehayes/easiest-movie-quiz-youll-ever-take",
+        "pubDate": "Fri, 03 Jul 2020 21:20:36 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/alliehayes/easiest-movie-quiz-youll-ever-take"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/3/17/tmp/2537e25911df/tmp-name-2-13572-1593797541-1_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Someone Who Hasn’t Seen “Legally Blonde” In 10 Years Should Still Be Able To Pass This Quiz",
+        "description": "<h1>\"Whoever said orange was the new pink was seriously disturbed.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/23/campaign_images/eb71e095b056/someone-who-hasnt-seen-legally-blonde-in-10-years-2-788-1594423731-22_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/morgansloss1/legally-blonde-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/morgansloss1/legally-blonde-quiz",
+        "pubDate": "Fri, 10 Jul 2020 16:45:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/morgansloss1/legally-blonde-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/23/campaign_images/eb71e095b056/someone-who-hasnt-seen-legally-blonde-in-10-years-2-788-1594423731-22_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Someone Who Hasn’t Seen “Hannah Montana: The Movie” Since It Came Out Can Still Easily Pass This Quiz",
+        "description": "<h1>\"Life's a climb but the view's great.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/9/16/tmp/f4a1d37dc395/tmp-name-2-686-1591720368-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/victoriagasparowicz/hannah-montana-the-movie-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/victoriagasparowicz/hannah-montana-the-movie-quiz",
+        "pubDate": "Sun, 14 Jun 2020 20:46:14 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/victoriagasparowicz/hannah-montana-the-movie-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/9/16/tmp/f4a1d37dc395/tmp-name-2-686-1591720368-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "A Video Shows A Pennsylvania Police Officer Kneeling On A Man’s Neck During His Arrest",
+        "description": "<h1>The incident, which sparked a protest in the city of Allentown, is being investigated by the police.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/20/campaign_images/6e124b5b4dac/a-video-shows-a-pennsylvania-police-officer-kneel-2-3856-1594585534-12_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/janelytvynenko/video-allentown-police-kneeling-mans-neck-arrest\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/janelytvynenko/video-allentown-police-kneeling-mans-neck-arrest",
+        "pubDate": "Sun, 12 Jul 2020 20:25:38 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/janelytvynenko/video-allentown-police-kneeling-mans-neck-arrest"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/20/campaign_images/6e124b5b4dac/a-video-shows-a-pennsylvania-police-officer-kneel-2-3856-1594585534-12_dblbig.jpg"
+        }
+      },
+      {
+        "title": "What Summer Dessert Are You Based On The Summer Foods You Prefer?",
+        "description": "<h1>Grab a slice of watermelon and sip on some lemonade!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/16/tmp/6e124b5b4dac/tmp-name-2-159-1594398745-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/eliachuaqui/which-summer-treat-are-you-based-on-the-winter-foo-cykjgzyhiq\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/eliachuaqui/which-summer-treat-are-you-based-on-the-winter-foo-cykjgzyhiq",
+        "pubDate": "Fri, 10 Jul 2020 01:14:18 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/eliachuaqui/which-summer-treat-are-you-based-on-the-winter-foo-cykjgzyhiq"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/16/tmp/6e124b5b4dac/tmp-name-2-159-1594398745-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If You've Seen These Iconic Teen Movies, You're 100% A 2000s Girl",
+        "description": "<h1>\"What, like it's hard?\" – Elle Woods<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/18/tmp/2bc9cf7fd925/tmp-name-2-2809-1594320696-30_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sarahaspler/movie-2000s-girl-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sarahaspler/movie-2000s-girl-quiz",
+        "pubDate": "Sun, 12 Jul 2020 20:15:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sarahaspler/movie-2000s-girl-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/18/tmp/2bc9cf7fd925/tmp-name-2-2809-1594320696-30_dblbig.jpg"
+        }
+      },
+      {
+        "title": "30 Pairs Of Sunglasses That Reviewers Truly Love",
+        "description": "<h1>These sunnies are amazing, no shade.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/16/tmp/8b76579742d9/tmp-name-2-361-1594226295-13_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/abbykass/sunglasses-reviewers-love\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/abbykass/sunglasses-reviewers-love",
+        "pubDate": "Sun, 12 Jul 2020 20:01:06 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/abbykass/sunglasses-reviewers-love"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/16/tmp/8b76579742d9/tmp-name-2-361-1594226295-13_dblbig.jpg"
+        }
+      },
+      {
+        "title": "What Movie Or Show Made For Children Is Legitimately Must-Watch For All Ages?",
+        "description": "<h1>Worth a watch for all ages.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/23/campaign_images/25514e9c7225/whats-a-childrens-movie-or-tv-show-thats-so-well--2-3225-1594339019-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/christopherhudspeth/kids-movie-childrens-tv-show-adults-should-watch\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/christopherhudspeth/kids-movie-childrens-tv-show-adults-should-watch",
+        "pubDate": "Sat, 11 Jul 2020 19:40:17 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/christopherhudspeth/kids-movie-childrens-tv-show-adults-should-watch"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/23/campaign_images/25514e9c7225/whats-a-childrens-movie-or-tv-show-thats-so-well--2-3225-1594339019-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Trina McGee Received An Apology From Danielle Fishel After Calling Out The Mistreatment She Experienced On \"Boy Meets World\"",
+        "description": "<h1>\"I owed Trina an apology for being rude, cold, and distant.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/19/tmp/ca18cb12c154/tmp-name-2-3678-1594580710-9_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/terrycarter/danielle-fishel-apologized-trina-mcgee-boy-meets-world\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/terrycarter/danielle-fishel-apologized-trina-mcgee-boy-meets-world",
+        "pubDate": "Sun, 12 Jul 2020 19:56:36 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/terrycarter/danielle-fishel-apologized-trina-mcgee-boy-meets-world"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/19/tmp/ca18cb12c154/tmp-name-2-3678-1594580710-9_dblbig.jpg"
+        }
+      },
+      {
+        "title": "This Is A Gen X'er Quiz That No Gen Z'er Or Millennial Could Realistically Do Well At",
+        "description": "<h1>And if you are a Gen Xer, then this quiz is for you!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/17/tmp/d199b4073243/tmp-name-2-2583-1594314839-10_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/briangalindo/how-well-can-you-do-on-this-gen-x-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/briangalindo/how-well-can-you-do-on-this-gen-x-quiz",
+        "pubDate": "Sun, 12 Jul 2020 19:46:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/briangalindo/how-well-can-you-do-on-this-gen-x-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/17/tmp/d199b4073243/tmp-name-2-2583-1594314839-10_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Which Flower Suits You Best?",
+        "description": "<h1>Wake up and smell the roses.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/ca18cb12c154/tmp-name-2-228-1594401162-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/shopmohlia/what-flowers-suit-you-best-2ppjmz27xl\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/shopmohlia/what-flowers-suit-you-best-2ppjmz27xl",
+        "pubDate": "Tue, 23 Jun 2020 12:46:40 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/shopmohlia/what-flowers-suit-you-best-2ppjmz27xl"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/ca18cb12c154/tmp-name-2-228-1594401162-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "45 Celebrities Explain Why They Went Vegan",
+        "description": "<h1>From animal rights to health benefits, here's what they said.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/19/13/tmp/b44f5ba68fb6/tmp-name-2-6539-1592571911-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/whitneyjefferson/why-vegan-celebrities-went-vegan\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/whitneyjefferson/why-vegan-celebrities-went-vegan",
+        "pubDate": "Sun, 12 Jul 2020 19:16:14 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/whitneyjefferson/why-vegan-celebrities-went-vegan"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/19/13/tmp/b44f5ba68fb6/tmp-name-2-6539-1592571911-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "People Are Sharing Movies That Twitter Overhyped And I Agree With Some And Am Outraged By Others",
+        "description": "<h1>Featuring some of your faves, probably.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/18/tmp/20ed5e5b95b8/tmp-name-2-3602-1594579249-4_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/ryanschocket2/overhyped-movies-twitter\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/ryanschocket2/overhyped-movies-twitter",
+        "pubDate": "Sun, 12 Jul 2020 19:03:26 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/ryanschocket2/overhyped-movies-twitter"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/18/tmp/20ed5e5b95b8/tmp-name-2-3602-1594579249-4_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Are Your Answers To This \"To All The Boys I've Loved Before\" Character Quiz The Same As Lana Condor's?",
+        "description": "<h1>Are you and Lana Condor secretly the same person?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/19/tmp/6b45de8756c5/tmp-name-2-931-1594064893-17_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/jamiespain/lana-condor-character-quiz-compatibility\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/jamiespain/lana-condor-character-quiz-compatibility",
+        "pubDate": "Sun, 12 Jul 2020 18:46:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/jamiespain/lana-condor-character-quiz-compatibility"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/19/tmp/6b45de8756c5/tmp-name-2-931-1594064893-17_dblbig.jpg"
+        }
+      },
+      {
+        "title": "31 Things From Target That’ll Save You Money In The Long Run",
+        "description": "<h1>For when you're somewhere in-between \"I need to save money\" and \"Treat yo' self.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/21/tmp/03193c26e6fb/tmp-name-2-1154-1594071222-15_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/stephaniehope/things-from-target-thatll-save-you-money-in-the-long-run\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/stephaniehope/things-from-target-thatll-save-you-money-in-the-long-run",
+        "pubDate": "Sun, 12 Jul 2020 18:31:04 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/stephaniehope/things-from-target-thatll-save-you-money-in-the-long-run"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/21/tmp/03193c26e6fb/tmp-name-2-1154-1594071222-15_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Everyone Has A Disney Villain Who Matches Their Personality — Eat Some Food To Reveal Yours",
+        "description": "<h1>Everyone's a liiiiiiiittle bit evil.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/16/tmp/57658944f16c/tmp-name-2-123-1594397517-5_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/upside_down/plan-your-meals-for-the-day-to-find-out-which-disn-6btjgl2mz9\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/upside_down/plan-your-meals-for-the-day-to-find-out-which-disn-6btjgl2mz9",
+        "pubDate": "Fri, 10 Jul 2020 03:59:16 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/upside_down/plan-your-meals-for-the-day-to-find-out-which-disn-6btjgl2mz9"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/16/tmp/57658944f16c/tmp-name-2-123-1594397517-5_dblbig.jpg"
+        }
+      },
+      {
+        "title": "31 Cute, Fun, And Practical Things That'll Help You Out This Summer",
+        "description": "<h1>Heat, sweat, blisters, humidity...there's a product in here to help.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/0/campaign_images/25514e9c7225/32-cute-fun-and-practical-things-thatll-help-you--2-1257-1594256172-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/kaylasuazo/things-thatll-help-you-this-summer\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/kaylasuazo/things-thatll-help-you-this-summer",
+        "pubDate": "Sun, 12 Jul 2020 18:00:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/kaylasuazo/things-thatll-help-you-this-summer"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/0/campaign_images/25514e9c7225/32-cute-fun-and-practical-things-thatll-help-you--2-1257-1594256172-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Employers Are Sharing The Worst Things They've Seen On Job Applications And I'm In Shock",
+        "description": "<h1>COME ON.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/17/tmp/7c3398d1df25/tmp-name-2-3458-1594575154-9_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/ryanschocket2/employers-share-worst-job-applications\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/ryanschocket2/employers-share-worst-job-applications",
+        "pubDate": "Sun, 12 Jul 2020 17:52:47 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/ryanschocket2/employers-share-worst-job-applications"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/17/tmp/7c3398d1df25/tmp-name-2-3458-1594575154-9_dblbig.jpg"
+        }
+      },
+      {
+        "title": "The Baby-Sitters Club Have Iconic Style – Which Member Matches Yours?",
+        "description": "<h1>Are you more of a Claudia, Kristy, or Mary Anne?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/13/tmp/d199b4073243/tmp-name-2-2204-1594301086-3_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/jennaguillaume/baby-sitters-club-style-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/jennaguillaume/baby-sitters-club-style-quiz",
+        "pubDate": "Sun, 12 Jul 2020 17:46:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/jennaguillaume/baby-sitters-club-style-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/13/tmp/d199b4073243/tmp-name-2-2204-1594301086-3_dblbig.jpg"
+        }
+      },
+      {
+        "title": "So, Keke Palmer Was Entangled In A Twitter Feud With August Alsina After Jada Pinkett Smith Confirmed Her Relationship With Him",
+        "description": "<h1>The Red Table Talk drama isn't over yet.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/17/campaign_images/6e124b5b4dac/keke-palmer-was-entangled-in-a-twitter-feud-with--2-3607-1594573959-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/natashajokic1/keke-palmer-august-alsina-twitter-feud\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/natashajokic1/keke-palmer-august-alsina-twitter-feud",
+        "pubDate": "Sun, 12 Jul 2020 17:27:53 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/natashajokic1/keke-palmer-august-alsina-twitter-feud"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/17/campaign_images/6e124b5b4dac/keke-palmer-was-entangled-in-a-twitter-feud-with--2-3607-1594573959-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Take This Personality Quiz To Discover Which Pop Icon You Are",
+        "description": "<h1>Ready for it?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/2428286d0ecf/tmp-name-2-78-1594395743-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/pineapplesz/which-female-pop-icon-are-you-f6clrezzdb\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/pineapplesz/which-female-pop-icon-are-you-f6clrezzdb",
+        "pubDate": "Tue, 09 Jun 2020 22:26:28 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/pineapplesz/which-female-pop-icon-are-you-f6clrezzdb"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/2428286d0ecf/tmp-name-2-78-1594395743-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Florida Sets National Record For Biggest Single-Day Increase In Coronavirus Cases Since The Pandemic Began",
+        "description": "<h1>Disney World reopened its theme parks on Saturday, even as Florida has become a hotspot for coronavirus cases in the country.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/20/campaign_images/7c3398d1df25/florida-sets-national-record-for-biggest-single-d-2-3662-1594584350-10_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/tasneemnashrulla/florida-national-record-covid-cases\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/tasneemnashrulla/florida-national-record-covid-cases",
+        "pubDate": "Sun, 12 Jul 2020 16:59:29 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/tasneemnashrulla/florida-national-record-covid-cases"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/20/campaign_images/7c3398d1df25/florida-sets-national-record-for-biggest-single-d-2-3662-1594584350-10_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Cardi B Described Her Daughter's Eyes As \"Chinky\" And Here's Why That's Not Okay",
+        "description": "<h1>\"I didn't know that chinky eyes was a slur.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/16/tmp/361344fea3da/tmp-name-2-3543-1594571076-9_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/terrycarter/cardi-b-kulture-chinky-eyes-racist\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/terrycarter/cardi-b-kulture-chinky-eyes-racist",
+        "pubDate": "Sun, 12 Jul 2020 16:52:00 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/terrycarter/cardi-b-kulture-chinky-eyes-racist"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/16/tmp/361344fea3da/tmp-name-2-3543-1594571076-9_dblbig.jpg"
+        }
+      },
+      {
+        "title": "People Told Us Their Most Controversial \"One Tree Hill\" Opinions And...Wow, Y'all",
+        "description": "<h1>You either love or despise Lucas and Peyton.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/18/tmp/f5fb6f3769d8/tmp-name-2-628-1594234227-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/kellymartinez/unpopular-one-tree-hill-opinions\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/kellymartinez/unpopular-one-tree-hill-opinions",
+        "pubDate": "Sun, 12 Jul 2020 16:46:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/kellymartinez/unpopular-one-tree-hill-opinions"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/18/tmp/f5fb6f3769d8/tmp-name-2-628-1594234227-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Here Are 18 Hilarious Tweets From This Weekend",
+        "description": "<h1>Featuring a lot of cake-related tweets.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/16/tmp/05168d8ba1ac/tmp-name-2-3434-1594571006-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/ryanschocket2/tweets-from-this-weekend-july-twelve\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/ryanschocket2/tweets-from-this-weekend-july-twelve",
+        "pubDate": "Sun, 12 Jul 2020 16:36:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/ryanschocket2/tweets-from-this-weekend-july-twelve"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/16/tmp/05168d8ba1ac/tmp-name-2-3434-1594571006-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Make An Ice Cream Sundae And We'll Reveal Your Emotional Age",
+        "description": "<h1>I scream (and cry) for ice cream!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/7c3398d1df25/tmp-name-2-85-1594396581-16_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/08light/build-an-ice-cream-sundae-and-weall-tell-you-wha-by9ixaxa9d\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/08light/build-an-ice-cream-sundae-and-weall-tell-you-wha-by9ixaxa9d",
+        "pubDate": "Thu, 09 Jul 2020 19:35:58 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/08light/build-an-ice-cream-sundae-and-weall-tell-you-wha-by9ixaxa9d"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/7c3398d1df25/tmp-name-2-85-1594396581-16_dblbig.jpg"
+        }
+      },
+      {
+        "title": "This Quiz Will Separate New Jerseyans From Everyone Else",
+        "description": "<h1>Taylor ham or pork roll?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/18/tmp/25514e9c7225/tmp-name-2-2708-1594320603-37_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/are-you-a-true-new-jerseyan\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/are-you-a-true-new-jerseyan",
+        "pubDate": "Sun, 12 Jul 2020 16:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/are-you-a-true-new-jerseyan"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/18/tmp/25514e9c7225/tmp-name-2-2708-1594320603-37_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If There Was An Award For Funniest Tweets, These 22 Jokes Would All Be Winners",
+        "description": "<h1>Everything is secretly cake.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/15/tmp/eb71e095b056/tmp-name-2-3413-1594568879-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/shylawatson/tweets-by-women-july-week-two-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/shylawatson/tweets-by-women-july-week-two-2020",
+        "pubDate": "Sun, 12 Jul 2020 16:03:24 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/shylawatson/tweets-by-women-july-week-two-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/15/tmp/eb71e095b056/tmp-name-2-3413-1594568879-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Just 26 Fintastic Things To Buy Your Fish",
+        "description": "<h1>♫Darling it's better, down where it's wetter, take it from your fish.♫<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/18/tmp/d0c89012304e/tmp-name-2-531-1594231957-12_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/stephaniehope/fintastic-things-to-buy-your-fish\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/stephaniehope/fintastic-things-to-buy-your-fish",
+        "pubDate": "Sun, 12 Jul 2020 16:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/stephaniehope/fintastic-things-to-buy-your-fish"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/18/tmp/d0c89012304e/tmp-name-2-531-1594231957-12_dblbig.jpg"
+        }
+      },
+      {
+        "title": "16 Makeover Montages That I Still Think About To This Very Day",
+        "description": "<h1>I still dream about Andy's Chanel boots from The Devil Wears Prada.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/22/tmp/2bc9cf7fd925/tmp-name-2-3175-1594332134-2_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/ehisosifo1/best-fashion-makeover-movie-montages\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/ehisosifo1/best-fashion-makeover-movie-montages",
+        "pubDate": "Sun, 12 Jul 2020 15:46:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/ehisosifo1/best-fashion-makeover-movie-montages"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/22/tmp/2bc9cf7fd925/tmp-name-2-3175-1594332134-2_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Anyone Who’s Watched One Episode Of “Game of Thrones” Should Pass This Quiz",
+        "description": "<h1>Do you know literally anything about Game of Thrones? Then this is the quiz for you.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/21/tmp/03193c26e6fb/tmp-name-2-1165-1594072089-17_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/jamiespain/easy-game-of-thrones-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/jamiespain/easy-game-of-thrones-quiz",
+        "pubDate": "Sun, 12 Jul 2020 15:31:04 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/jamiespain/easy-game-of-thrones-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/21/tmp/03193c26e6fb/tmp-name-2-1165-1594072089-17_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Jesse Tyler Ferguson Clapped Back At Someone Who Called His Baby's Name \"Stupid\" And I'm Here For It",
+        "description": "<h1>\"I guess this sentiment faded fast.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/15/tmp/5b3c236c2b32/tmp-name-2-3329-1594566213-8_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/natashajokic1/jesse-tyler-ferguson-son-name-clapback\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/natashajokic1/jesse-tyler-ferguson-son-name-clapback",
+        "pubDate": "Sun, 12 Jul 2020 15:24:59 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/natashajokic1/jesse-tyler-ferguson-son-name-clapback"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/15/tmp/5b3c236c2b32/tmp-name-2-3329-1594566213-8_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If You Were In The \"Harry Potter\" Universe, Would You Be In Dumbledore's Army Or Would You Be A Death Eater?",
+        "description": "<h1>Which side are you on?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/bf3bc41af790/tmp-name-2-85-1594395677-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/hermionegranger1015/take-this-harry-potter-quiz-and-we-will-tell-you-i-4q2cyp5j4h\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/hermionegranger1015/take-this-harry-potter-quiz-and-we-will-tell-you-i-4q2cyp5j4h",
+        "pubDate": "Wed, 06 May 2020 17:29:38 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/hermionegranger1015/take-this-harry-potter-quiz-and-we-will-tell-you-i-4q2cyp5j4h"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/bf3bc41af790/tmp-name-2-85-1594395677-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Anyone With The Most Basic Disney Movie Knowledge Should Get 9/12 On This Quiz",
+        "description": "<h1>This sounds like a trick (but it isn't, it's just really easy).<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/686b5819d040/tmp-name-2-3033-1594328881-12_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/alliehayes/easy-disney-movie-knowledge-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/alliehayes/easy-disney-movie-knowledge-quiz",
+        "pubDate": "Sun, 12 Jul 2020 15:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/alliehayes/easy-disney-movie-knowledge-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/686b5819d040/tmp-name-2-3033-1594328881-12_dblbig.jpg"
+        }
+      },
+      {
+        "title": "36 Things Runners Will Probably Wish They'd Known About Sooner",
+        "description": "<h1>Muscle pain? Canceled. Chafing? Also canceled. Dehydration? You guessed it — canceled.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/20/campaign_images/80b161fa4c1c/36-things-that-will-make-runners-say-why-dont-i-o-2-3210-1594154579-8_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/emmalord9/things-runners-will-probably-wish-theyd-known-about-sooner\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/emmalord9/things-runners-will-probably-wish-theyd-known-about-sooner",
+        "pubDate": "Sun, 12 Jul 2020 15:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/emmalord9/things-runners-will-probably-wish-theyd-known-about-sooner"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/20/campaign_images/80b161fa4c1c/36-things-that-will-make-runners-say-why-dont-i-o-2-3210-1594154579-8_dblbig.jpg"
+        }
+      },
+      {
+        "title": "25 Things Every Single Millennial Definitely Injured Themselves On As A Kid",
+        "description": "<h1>They just hurt to look at.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/18/tmp/5bf9a5079c01/tmp-name-2-2719-1594320047-16_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/daves4/hurt-yourself-on-childhood\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/daves4/hurt-yourself-on-childhood",
+        "pubDate": "Sun, 12 Jul 2020 14:46:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/daves4/hurt-yourself-on-childhood"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/18/tmp/5bf9a5079c01/tmp-name-2-2719-1594320047-16_dblbig.jpg"
+        }
+      },
+      {
+        "title": "27 TV Friendships That Have Way More Chemistry Than The Romantic Relationships On The Show",
+        "description": "<h1>Scott and Stiles <3 <3 <3<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/21/tmp/f5fb6f3769d8/tmp-name-2-962-1594245093-37_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/hannahmarder/best-tv-platonic-ships\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/hannahmarder/best-tv-platonic-ships",
+        "pubDate": "Sun, 12 Jul 2020 14:46:14 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/hannahmarder/best-tv-platonic-ships"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/21/tmp/f5fb6f3769d8/tmp-name-2-962-1594245093-37_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Is Your Disney Channel Knowledge Multigenerational?",
+        "description": "<h1>How much about Disney Channel do you actually know?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/19/tmp/f4efb87878f0/tmp-name-2-756-1594238196-28_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/laurengarafano/multigenerational-disney-channel-knowledge\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/laurengarafano/multigenerational-disney-channel-knowledge",
+        "pubDate": "Sun, 12 Jul 2020 14:31:06 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/laurengarafano/multigenerational-disney-channel-knowledge"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/19/tmp/f4efb87878f0/tmp-name-2-756-1594238196-28_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Design Your Own Kingdom And We'll Reveal Which \"Frozen\" Character You Are",
+        "description": "<h1>Samantha?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/686b5819d040/tmp-name-2-4557-1594394634-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/glittergurl/design-a-kingdom-and-well-tell-you-what-frozen-ch-3gjl3ctmd0\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/glittergurl/design-a-kingdom-and-well-tell-you-what-frozen-ch-3gjl3ctmd0",
+        "pubDate": "Tue, 30 Jun 2020 18:52:02 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/glittergurl/design-a-kingdom-and-well-tell-you-what-frozen-ch-3gjl3ctmd0"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/686b5819d040/tmp-name-2-4557-1594394634-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If You Don’t Get Full Marks On This Super Easy British General Knowledge Quiz Then I’m Sorry But You Know Nothing About The UK",
+        "description": "<h1>How well do you really know the UK?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/12/tmp/f5fb6f3769d8/tmp-name-2-4195-1594382890-20_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/valezabakolli/easy-british-general-knowledge-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/valezabakolli/easy-british-general-knowledge-quiz",
+        "pubDate": "Sun, 12 Jul 2020 14:04:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/valezabakolli/easy-british-general-knowledge-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/12/tmp/f5fb6f3769d8/tmp-name-2-4195-1594382890-20_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Only 3% Of The Population Knows The Ages Of These Celebs – Are You Amongst The Select Few?",
+        "description": "<h1>They may play a 16-year-old, but they could be much older.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/14/tmp/686b5819d040/tmp-name-2-4474-1594392413-22_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/siesiem/do-you-really-know-how-old-these-celebrities-are-1t6aloqh4f\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/siesiem/do-you-really-know-how-old-these-celebrities-are-1t6aloqh4f",
+        "pubDate": "Tue, 07 Jul 2020 18:58:21 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/siesiem/do-you-really-know-how-old-these-celebrities-are-1t6aloqh4f"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/14/tmp/686b5819d040/tmp-name-2-4474-1594392413-22_dblbig.jpg"
+        }
+      },
+      {
+        "title": "25 Questions Moms Should Answer That Are Funny Because They're True",
+        "description": "<h1>\"Why do moms always say 'who is that' when you show them something on the internet?\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/18/tmp/25514e9c7225/tmp-name-2-569-1594233046-56_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/daves4/funny-mom-questions\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/daves4/funny-mom-questions",
+        "pubDate": "Sun, 12 Jul 2020 13:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/daves4/funny-mom-questions"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/18/tmp/25514e9c7225/tmp-name-2-569-1594233046-56_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Just 90 Great Pairs Of Sandals",
+        "description": "<h1>So many sandals, so few feet.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/17/tmp/5f9676a03016/tmp-name-2-2821-1594143088-8_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/elenamgarcia/best-sandals-you-can-get-online-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/elenamgarcia/best-sandals-you-can-get-online-2020",
+        "pubDate": "Sun, 12 Jul 2020 13:01:06 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/elenamgarcia/best-sandals-you-can-get-online-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/17/tmp/5f9676a03016/tmp-name-2-2821-1594143088-8_dblbig.jpg"
+        }
+      },
+      {
+        "title": "33 Basic Pieces Of Clothing And Accessories You'll Probably Wear Over And Over Again",
+        "description": "<h1>Ooooo, a capsule wardrobe. How adult of me.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/2/17/tmp/9bc2c3b58258/tmp-name-2-11803-1593710809-30_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/anamariaglavan/basic-pieces-of-clothing-and-accessories-youll-pr\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/anamariaglavan/basic-pieces-of-clothing-and-accessories-youll-pr",
+        "pubDate": "Sun, 12 Jul 2020 13:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/anamariaglavan/basic-pieces-of-clothing-and-accessories-youll-pr"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/2/17/tmp/9bc2c3b58258/tmp-name-2-11803-1593710809-30_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Respond To 10 Scenarios And We'll Tell You If You're Bad At Dating",
+        "description": "<h1>Are you the villain in someone's story?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/ca18cb12c154/tmp-name-2-228-1594401518-34_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/natashajokic1/bad-at-dating-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/natashajokic1/bad-at-dating-quiz",
+        "pubDate": "Sun, 12 Jul 2020 12:46:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/natashajokic1/bad-at-dating-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/ca18cb12c154/tmp-name-2-228-1594401518-34_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Just 34 Pieces Of Home Decor Under $25",
+        "description": "<h1>Yes, it is possible to make your home look like a million bucks while only spending a fraction of that.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/20/tmp/80f4e6ef604c/tmp-name-2-3282-1594155242-12_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/abbykass/cheap-home-decor-under-25\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/abbykass/cheap-home-decor-under-25",
+        "pubDate": "Sun, 12 Jul 2020 12:01:06 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/abbykass/cheap-home-decor-under-25"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/20/tmp/80f4e6ef604c/tmp-name-2-3282-1594155242-12_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Confess Which Struggle Meals You've Consumed And We'll Reveal Whether Or Not You're Going Through It",
+        "description": "<h1>If you haven't made the Tortilla Nacho™, don't talk to me.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/20/tmp/686b5819d040/tmp-name-2-824-1594240331-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/struggle-meals-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/struggle-meals-quiz",
+        "pubDate": "Sun, 12 Jul 2020 11:46:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/struggle-meals-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/20/tmp/686b5819d040/tmp-name-2-824-1594240331-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "31 Best-Selling Cleaning Products From Target That Are Popular For A Reason",
+        "description": "<h1>Get your home sparkling clean with these soaps, tools, and all-purpose cleaners.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/16/tmp/25514e9c7225/tmp-name-2-380-1594226126-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/alifacc/best-selling-cleaning-products-target\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/alifacc/best-selling-cleaning-products-target",
+        "pubDate": "Sun, 12 Jul 2020 11:31:03 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/alifacc/best-selling-cleaning-products-target"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/16/tmp/25514e9c7225/tmp-name-2-380-1594226126-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "27 Moisture-Wicking Bras For People Who Sweat A Lot",
+        "description": "<h1>\"Why are you the way that you are\" —Michael Scott (and me to my sweat glands).<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/29/16/campaign_images/c3608e205c92/27-moisture-wicking-bras-for-people-who-sweat-a-l-2-5389-1593448212-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/melanie_aman/breathable-moisture-wicking-bras-for-sweaty-people-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/melanie_aman/breathable-moisture-wicking-bras-for-sweaty-people-2020",
+        "pubDate": "Sun, 12 Jul 2020 11:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/melanie_aman/breathable-moisture-wicking-bras-for-sweaty-people-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/29/16/campaign_images/c3608e205c92/27-moisture-wicking-bras-for-people-who-sweat-a-l-2-5389-1593448212-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "38 Products With Such Good Reviews You May Want To Test Them Yourself",
+        "description": "<h1>From everything you'd need for an at-home mani to comfortable sneakers, this post will probably address all of your shopping desires.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/f5fb6f3769d8/tmp-name-2-2967-1594327513-23_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/hbraga/products-with-such-good-reviews-july\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/hbraga/products-with-such-good-reviews-july",
+        "pubDate": "Sun, 12 Jul 2020 10:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/hbraga/products-with-such-good-reviews-july"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/f5fb6f3769d8/tmp-name-2-2967-1594327513-23_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Bake A Delicious Cake And We'll Reveal The First Letter Of Your Soulmate's Name",
+        "description": "<h1>Time to find out!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/25514e9c7225/tmp-name-2-4352-1594393791-13_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lexeyklink/build-a-cake-and-we-will-give-you-the-letter-of-yo-4bocysgu1\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lexeyklink/build-a-cake-and-we-will-give-you-the-letter-of-yo-4bocysgu1",
+        "pubDate": "Wed, 08 Jul 2020 21:06:08 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lexeyklink/build-a-cake-and-we-will-give-you-the-letter-of-yo-4bocysgu1"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/25514e9c7225/tmp-name-2-4352-1594393791-13_dblbig.jpg"
+        }
+      },
+      {
+        "title": "17 More Disturbing Movie Moments That Manage To Be Terrifying With Absolutely Zero Gore",
+        "description": "<h1>Don't read this post if you were hoping to — oh, I don't know — sleep tonight.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/22/campaign_images/80b161fa4c1c/17-more-movie-moments-that-manage-to-be-incredibl-2-3413-1594161421-33_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/alliehayes/disturbing-movie-moments-no-gore\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/alliehayes/disturbing-movie-moments-no-gore",
+        "pubDate": "Sun, 12 Jul 2020 03:16:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/alliehayes/disturbing-movie-moments-no-gore"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/22/campaign_images/80b161fa4c1c/17-more-movie-moments-that-manage-to-be-incredibl-2-3413-1594161421-33_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Only Someone Who Has Read \"Harry Potter And The Order Of The Phoenix\" At Least 3 Times Can Pass This Quiz",
+        "description": "<h1>\"Just because you've got the emotional range of a teaspoon doesn't mean we all have.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/e4e87579481a/tmp-name-2-3042-1594330036-13_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/noradominick/harry-potter-order-of-the-phoenix-book-trivia-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/noradominick/harry-potter-order-of-the-phoenix-book-trivia-quiz",
+        "pubDate": "Sun, 12 Jul 2020 02:46:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/noradominick/harry-potter-order-of-the-phoenix-book-trivia-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/e4e87579481a/tmp-name-2-3042-1594330036-13_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Prepare To Be Seriously Amazed When We Guess Your Zodiac Sign From Your Favorite Female Disney Characters",
+        "description": "<h1>Mulan should be president, honestly!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/d0c89012304e/tmp-name-2-3139-1594331031-12_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/pride_and_cacti/we-know-your-zodiac-sign-based-on-your-disney-girl-arm0pa591q\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/pride_and_cacti/we-know-your-zodiac-sign-based-on-your-disney-girl-arm0pa591q",
+        "pubDate": "Wed, 01 Jul 2020 02:45:18 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/pride_and_cacti/we-know-your-zodiac-sign-based-on-your-disney-girl-arm0pa591q"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/d0c89012304e/tmp-name-2-3139-1594331031-12_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 Tragic Movie Character Deaths That Basically Changed Everything",
+        "description": "<h1>BRB, I'm sobbing.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/e4e87579481a/tmp-name-2-2977-1594327576-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/laurengarafano/tragic-movie-character-deaths\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/laurengarafano/tragic-movie-character-deaths",
+        "pubDate": "Sun, 12 Jul 2020 02:15:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/laurengarafano/tragic-movie-character-deaths"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/e4e87579481a/tmp-name-2-2977-1594327576-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Just 26 Great Beauty Products You'll Probably Want In Your Makeup Bag",
+        "description": "<h1>Because there's nothing more gorgeous than a box full of beauty products showing up at your door.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/20/campaign_images/2374151cab63/just-25-great-beauty-products-youll-probably-want-2-865-1594241621-49_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/katyherman/beauty-products-want-in-your-makeup-bag\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/katyherman/beauty-products-want-in-your-makeup-bag",
+        "pubDate": "Sun, 12 Jul 2020 02:00:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/katyherman/beauty-products-want-in-your-makeup-bag"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/20/campaign_images/2374151cab63/just-25-great-beauty-products-youll-probably-want-2-865-1594241621-49_dblbig.jpg"
+        }
+      },
+      {
+        "title": "How Many Lead Singers From Popular Bands Can You Correctly Name?",
+        "description": "<h1>You've heard their music, but can you name them?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/17/campaign_images/6e124b5b4dac/how-many-lead-singers-from-popular-bands-can-you--2-3634-1594575597-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/christopherhudspeth/popular-bands-lead-singers-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/christopherhudspeth/popular-bands-lead-singers-quiz",
+        "pubDate": "Sun, 12 Jul 2020 01:45:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/christopherhudspeth/popular-bands-lead-singers-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/17/campaign_images/6e124b5b4dac/how-many-lead-singers-from-popular-bands-can-you--2-3634-1594575597-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Design A Brand New Disney Princess To Reveal Which Pixar Heroine You're Most Like",
+        "description": "<h1>A quiz for only the most royal of them all!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/22/tmp/2374151cab63/tmp-name-2-3147-1594332043-2_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/todefeatthehuns/design-a-disney-princess-to-find-out-which-pixar-l-4563vwdxxq\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/todefeatthehuns/design-a-disney-princess-to-find-out-which-pixar-l-4563vwdxxq",
+        "pubDate": "Fri, 03 Jul 2020 01:38:48 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/todefeatthehuns/design-a-disney-princess-to-find-out-which-pixar-l-4563vwdxxq"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/22/tmp/2374151cab63/tmp-name-2-3147-1594332043-2_dblbig.jpg"
+        }
+      },
+      {
+        "title": "25 Amazing Actors Who've Never Won An Oscar Despite Their Mind-Blowing Performances",
+        "description": "<h1>Take notes, Academy.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/0/tmp/03193c26e6fb/tmp-name-2-3533-1594168691-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/morgansloss1/amazing-actors-who-never-won-oscars\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/morgansloss1/amazing-actors-who-never-won-oscars",
+        "pubDate": "Sun, 12 Jul 2020 01:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/morgansloss1/amazing-actors-who-never-won-oscars"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/0/tmp/03193c26e6fb/tmp-name-2-3533-1594168691-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Texas, California, And Florida Are Now Seeing A Sharp Rise In COVID-19 Deaths",
+        "description": "<h1>“We just reopened too fast and these are the consequences of it,” an emergency room doctor in Houston said.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/2/campaign_images/05168d8ba1ac/texas-california-and-florida-are-now-seeing-a-sha-2-2611-1594521576-29_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/peteraldhous/covid-deaths-rising-texas-florida-california\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/peteraldhous/covid-deaths-rising-texas-florida-california",
+        "pubDate": "Sun, 12 Jul 2020 01:04:20 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/peteraldhous/covid-deaths-rising-texas-florida-california"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/12/2/campaign_images/05168d8ba1ac/texas-california-and-florida-are-now-seeing-a-sha-2-2611-1594521576-29_dblbig.jpg"
+        }
+      },
+      {
+        "title": "This \"Tangled\" Trivia Quiz Gets Progressively Harder With Each Question — Can You Answer Them All Correctly?",
+        "description": "<h1>Let your power shine on this quiz!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/23/tmp/e4e87579481a/tmp-name-2-3221-1594336529-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/aiasadullah1510/how-well-do-you-know-the-movie-tangled-5t3r8y1l68\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/aiasadullah1510/how-well-do-you-know-the-movie-tangled-5t3r8y1l68",
+        "pubDate": "Wed, 01 Jul 2020 14:42:08 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/aiasadullah1510/how-well-do-you-know-the-movie-tangled-5t3r8y1l68"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/23/tmp/e4e87579481a/tmp-name-2-3221-1594336529-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 Parents Who Didn't Know These Were Fails Until Too Late",
+        "description": "<h1>It's not their best day, like at all.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/0/tmp/c87a331872fc/tmp-name-2-3565-1594169174-3_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/asiawmclain/parents-having-a-bad-day\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/asiawmclain/parents-having-a-bad-day",
+        "pubDate": "Sun, 12 Jul 2020 00:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/asiawmclain/parents-having-a-bad-day"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/0/tmp/c87a331872fc/tmp-name-2-3565-1594169174-3_dblbig.jpg"
+        }
+      },
+      {
+        "title": "45 Problem-Solving Products Anyone With A Kitchen Probably Needs",
+        "description": "<h1>Getting organized, eating well, and saving money — these'll help you do it all.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/f4efb87878f0/tmp-name-2-4559-1594395449-17_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/maitlandquitmeyer/problem-solving-kitchen-products\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/maitlandquitmeyer/problem-solving-kitchen-products",
+        "pubDate": "Sun, 12 Jul 2020 00:01:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/maitlandquitmeyer/problem-solving-kitchen-products"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/f4efb87878f0/tmp-name-2-4559-1594395449-17_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Make A Bunch Of Rich-People Estate Choices And We'll Reveal Your Mental Age",
+        "description": "<h1>Private island or private jet? Your choice!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/17/tmp/2bc9cf7fd925/tmp-name-2-444-1594228134-13_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/victoriagasparowicz/build-an-estate-and-reveal-your-mental-age\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/victoriagasparowicz/build-an-estate-and-reveal-your-mental-age",
+        "pubDate": "Sat, 11 Jul 2020 23:46:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/victoriagasparowicz/build-an-estate-and-reveal-your-mental-age"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/17/tmp/2bc9cf7fd925/tmp-name-2-444-1594228134-13_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Are Your Romantic Movie Picks For Each Year Of The 00s Popular Or Controversial?",
+        "description": "<h1>It's not gonna be easy!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/1/tmp/f4efb87878f0/tmp-name-2-3431-1594343652-5_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/alessia14/you-can-only-pick-one-2000s-romantic-movie-for-ev-8m4scvbayw\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/alessia14/you-can-only-pick-one-2000s-romantic-movie-for-ev-8m4scvbayw",
+        "pubDate": "Tue, 23 Jun 2020 16:22:32 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/alessia14/you-can-only-pick-one-2000s-romantic-movie-for-ev-8m4scvbayw"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/1/tmp/f4efb87878f0/tmp-name-2-3431-1594343652-5_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Really, Really — Like, Really — Good Things That Happened This Week",
+        "description": "<h1>You deserve this.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/6e124b5b4dac/tmp-name-2-228-1594401844-47_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/good-things-week-july-12-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/good-things-week-july-12-2020",
+        "pubDate": "Sat, 11 Jul 2020 23:16:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/good-things-week-july-12-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/6e124b5b4dac/tmp-name-2-228-1594401844-47_dblbig.jpg"
+        }
+      },
+      {
+        "title": "We Know How Old You Are Based On The Teen Movie Outfits You'd Wear",
+        "description": "<h1>Could you really say no to Cher's plaid outfit??<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/8b76579742d9/tmp-name-2-3067-1594331561-11_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lizmrichardson/teen-movie-outfits-age-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lizmrichardson/teen-movie-outfits-age-quiz",
+        "pubDate": "Sat, 11 Jul 2020 22:46:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lizmrichardson/teen-movie-outfits-age-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/8b76579742d9/tmp-name-2-3067-1594331561-11_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Invent Your Own Magic Spell And We'll Reveal What Your Most-Cast Spell Would Be In The \"Harry Potter\" Universe",
+        "description": "<h1>Swish and flick!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/e4e87579481a/tmp-name-2-3034-1594330146-12_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/dreamhappy/invent-a-spell-then-i-will-tell-you-what-spell-you-1rl0609cii\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/dreamhappy/invent-a-spell-then-i-will-tell-you-what-spell-you-1rl0609cii",
+        "pubDate": "Thu, 18 Jun 2020 20:01:03 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/dreamhappy/invent-a-spell-then-i-will-tell-you-what-spell-you-1rl0609cii"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/tmp/e4e87579481a/tmp-name-2-3034-1594330146-12_dblbig.jpg"
+        }
+      },
+      {
+        "title": "24 Brutally Funny Moms Whose Tweets Literally Made My Sides Hurt",
+        "description": "<h1>\"Good luck robbing my house. My security system is LEGOs on the floor.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/20/tmp/a9e72df645a1/tmp-name-2-3124-1594152215-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/asiawmclain/brutally-funny-mom-tweets\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/asiawmclain/brutally-funny-mom-tweets",
+        "pubDate": "Sat, 11 Jul 2020 22:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/asiawmclain/brutally-funny-mom-tweets"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/20/tmp/a9e72df645a1/tmp-name-2-3124-1594152215-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Do You Prefer The Same Parts Of These Snack Mixes As Everyone Else?",
+        "description": "<h1>Pretzels are the worst part of Munchies, don't @ me.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/14/tmp/e4e87579481a/tmp-name-2-4382-1594390583-46_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/abbyzinman/lets-decide-once-and-for-all-what-the-best-part-o-bp2w2vwhrh\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/abbyzinman/lets-decide-once-and-for-all-what-the-best-part-o-bp2w2vwhrh",
+        "pubDate": "Thu, 09 Jul 2020 18:34:36 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/abbyzinman/lets-decide-once-and-for-all-what-the-best-part-o-bp2w2vwhrh"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/14/tmp/e4e87579481a/tmp-name-2-4382-1594390583-46_dblbig.jpg"
+        }
+      },
+      {
+        "title": "This TV Trivia Quiz Will Separate The Gen Z'ers From The Millennials",
+        "description": "<h1>You either know it or you don't.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/19/tmp/2bc9cf7fd925/tmp-name-2-737-1594237127-32_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/ajanibazile/gen-z-tv-trivia-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/ajanibazile/gen-z-tv-trivia-quiz",
+        "pubDate": "Sat, 11 Jul 2020 21:16:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/ajanibazile/gen-z-tv-trivia-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/19/tmp/2bc9cf7fd925/tmp-name-2-737-1594237127-32_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Disney World Reopened The Same Day Florida Recorded Its Second-Highest Day Of New COVID-19 Cases",
+        "description": "<h1>Florida has seen a massive surge in coronavirus cases and hospitalizations in recent weeks.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/21/campaign_images/05168d8ba1ac/disney-world-reopened-the-same-day-florida-record-2-2213-1594502008-1_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/clarissajanlim/disney-world-reopening-florida-coronavirus-magic-kingdom\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/clarissajanlim/disney-world-reopening-florida-coronavirus-magic-kingdom",
+        "pubDate": "Sat, 11 Jul 2020 21:12:50 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/clarissajanlim/disney-world-reopening-florida-coronavirus-magic-kingdom"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/11/21/campaign_images/05168d8ba1ac/disney-world-reopened-the-same-day-florida-record-2-2213-1594502008-1_dblbig.jpg"
+        }
+      }
+    ]
+  }
+}

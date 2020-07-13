@@ -1,0 +1,1300 @@
+{
+  "version": "2.0",
+  "channel": {
+    "title": "BuzzFeed - Animals",
+    "link": [
+      "https://www.buzzfeed.com/animals",
+      {
+        "href": "https://www.buzzfeed.com/animals.xml",
+        "rel": "self"
+      }
+    ],
+    "language": "en",
+    "copyright": "Copyright 2020 BuzzFeed, Inc.",
+    "description": "BuzzFeed has breaking news, vital journalism, quizzes, videos, celeb news, Tasty food videos, recipes, DIY hacks, and all the trending buzz you’ll want to share with your friends. Copyright BuzzFeed, Inc. All rights reserved.",
+    "lastBuildDate": "Mon, 13 Jul 2020 00:41:49 +0000",
+    "managingEditor": "editor@buzzfeed.com (https://www.buzzfeed.com/about)",
+    "webMaster": "editor@buzzfeed.com (https://www.buzzfeed.com/about)",
+    "image": {
+      "url": "https://webappstatic.buzzfeed.com/static/images/public/rss/logo.png",
+      "title": "BuzzFeed - Animals",
+      "link": "https://www.buzzfeed.com/animals"
+    },
+    "item": [
+      {
+        "title": "25 Things That’ll Help You And Your Pet Make The Most Out Of Your Backyard",
+        "description": "<h1>Including a dog bed with a canopy, a cat harness, a cooling mat, and other presents that'll finally earn you your pet's love.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/f5fb6f3769d8/tmp-name-2-3001-1594328306-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/melanie_aman/outdoor-pet-products-make-most-of-backyard\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/melanie_aman/outdoor-pet-products-make-most-of-backyard",
+        "pubDate": "Sun, 12 Jul 2020 23:08:06 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/melanie_aman/outdoor-pet-products-make-most-of-backyard"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/20/tmp/f5fb6f3769d8/tmp-name-2-3001-1594328306-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Really, Really — Like, Really — Good Things That Happened This Week",
+        "description": "<h1>You deserve this.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/6e124b5b4dac/tmp-name-2-228-1594401844-47_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/good-things-week-july-12-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/good-things-week-july-12-2020",
+        "pubDate": "Mon, 13 Jul 2020 00:25:21 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/good-things-week-july-12-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/17/tmp/6e124b5b4dac/tmp-name-2-228-1594401844-47_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 Dog Posts From This Week That You Just Miiiiiight Find Most Pleasing",
+        "description": "<h1>Please enjoy the following doginis.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/57658944f16c/tmp-name-2-86-1594396451-11_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/dog-posts-week-july-12-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/dog-posts-week-july-12-2020",
+        "pubDate": "Sun, 12 Jul 2020 08:25:23 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/dog-posts-week-july-12-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/10/15/tmp/57658944f16c/tmp-name-2-86-1594396451-11_dblbig.jpg"
+        }
+      },
+      {
+        "title": "19 Confused Kids Whose Misunderstandings Were 100% Cute And 100% Funny",
+        "description": "<h1>Parents to these kids: \"What made you think that?!\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/0/tmp/f5fb6f3769d8/tmp-name-2-1190-1594253072-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/mikespohr/hilarious-kids-misunderstandings\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/mikespohr/hilarious-kids-misunderstandings",
+        "pubDate": "Fri, 10 Jul 2020 22:48:10 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/mikespohr/hilarious-kids-misunderstandings"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/0/tmp/f5fb6f3769d8/tmp-name-2-1190-1594253072-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 People Who Prove That All It Takes Is One Cat To Transform You Into A Cat Person",
+        "description": "<h1>You don't choose the cat life, it chooses you.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/17/tmp/6b45de8756c5/tmp-name-2-2763-1594143331-43_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/pablovaldivia/becoming-a-cat-person\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/pablovaldivia/becoming-a-cat-person",
+        "pubDate": "Fri, 10 Jul 2020 02:18:12 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/pablovaldivia/becoming-a-cat-person"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/17/tmp/6b45de8756c5/tmp-name-2-2763-1594143331-43_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Really Old Dogs Who Have Been Through So Much, It's A Miracle They're Alive",
+        "description": "<h1>They really said, \"Not today, Satan!\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/16/tmp/686b5819d040/tmp-name-2-2577-1594313791-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/daniellaemanuel/tiktok-really-old-dogs\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/daniellaemanuel/tiktok-really-old-dogs",
+        "pubDate": "Fri, 10 Jul 2020 12:25:27 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/daniellaemanuel/tiktok-really-old-dogs"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/16/tmp/686b5819d040/tmp-name-2-2577-1594313791-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "25 Dog Portraits That Are Literally All You Need To See Today",
+        "description": "<h1>BRB, adopting all these dogs.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/15/campaign_images/2bc9cf7fd925/25-dog-portraits-that-are-literally-all-you-need--2-2395-1594307887-21_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/morgansloss1/dog-portaits\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/morgansloss1/dog-portaits",
+        "pubDate": "Thu, 09 Jul 2020 15:18:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/morgansloss1/dog-portaits"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/15/campaign_images/2bc9cf7fd925/25-dog-portraits-that-are-literally-all-you-need--2-2395-1594307887-21_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Let's Decide Once And For All: Is This A Dog Or Human Name?",
+        "description": "<h1>Let's play my favorite game: Dog or Human Name?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/campaign_images/25514e9c7225/lets-decide-once-and-for-all-is-this-a-dog-or-hum-2-3041-1594331181-2_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/mjs538/lets-decide-once-and-for-all-is-this-more-of-a-dog-name-or\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/mjs538/lets-decide-once-and-for-all-is-this-more-of-a-dog-name-or",
+        "pubDate": "Fri, 10 Jul 2020 18:25:33 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/mjs538/lets-decide-once-and-for-all-is-this-more-of-a-dog-name-or"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/21/campaign_images/25514e9c7225/lets-decide-once-and-for-all-is-this-a-dog-or-hum-2-3041-1594331181-2_dblbig.jpg"
+        }
+      },
+      {
+        "title": "People Are Giving Their Cats Eggs To See If They'll \"Protect\" Them, And The Results Are Giving Me Heart Eyes",
+        "description": "<h1>Humpty Dumpty would probs still be alive if he had a cat!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/15/campaign_images/f5fb6f3769d8/people-are-giving-their-cats-eggs-to-see-if-theyl-2-2368-1594307907-8_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/shelbyheinrich/cat-egg-tiktok-challenge\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/shelbyheinrich/cat-egg-tiktok-challenge",
+        "pubDate": "Fri, 10 Jul 2020 15:25:24 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/shelbyheinrich/cat-egg-tiktok-challenge"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/9/15/campaign_images/f5fb6f3769d8/people-are-giving-their-cats-eggs-to-see-if-theyl-2-2368-1594307907-8_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Adopt Some Pets To Find Out Which Stray Kids Member Is Your Soulmate",
+        "description": "<h1>Cat = Lee Know?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/21/tmp/e4e87579481a/tmp-name-2-911-1594243084-23_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/squirrelsquared/adopt-some-pets-to-find-out-which-stray-kids-membe-4jpgw1ss7y\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/squirrelsquared/adopt-some-pets-to-find-out-which-stray-kids-membe-4jpgw1ss7y",
+        "pubDate": "Thu, 09 Jul 2020 20:08:06 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/squirrelsquared/adopt-some-pets-to-find-out-which-stray-kids-membe-4jpgw1ss7y"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/8/21/tmp/e4e87579481a/tmp-name-2-911-1594243084-23_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Dog Posts From This Week That Are (More Or Less) Proven To Produce Serotonin",
+        "description": "<h1>Time for some doggage.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/2/15/tmp/2537e25911df/tmp-name-2-11623-1593705496-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-july-5-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-july-5-2020",
+        "pubDate": "Tue, 07 Jul 2020 08:25:30 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-july-5-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/2/15/tmp/2537e25911df/tmp-name-2-11623-1593705496-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Really Pure And Wonderful Things That Happened This Week",
+        "description": "<h1>Come get your free serotonin!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/2/16/tmp/b4d5edd0ad23/tmp-name-2-3768-1593708391-10_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/good-things-from-this-week-july-5-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/good-things-from-this-week-july-5-2020",
+        "pubDate": "Tue, 07 Jul 2020 02:25:27 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/good-things-from-this-week-july-5-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/2/16/tmp/b4d5edd0ad23/tmp-name-2-3768-1593708391-10_dblbig.jpg"
+        }
+      },
+      {
+        "title": "23 Things From Chewy That Dogs Swear By",
+        "description": "<h1>Two paws up for these products that'll help your pups feel like they're living in the lap of luxury.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/15/tmp/0a0f2c728d19/tmp-name-2-7260-1593530725-28_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/elizabethlilly/things-from-chewy-that-dogs-swear-by\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/elizabethlilly/things-from-chewy-that-dogs-swear-by",
+        "pubDate": "Thu, 02 Jul 2020 12:08:10 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/elizabethlilly/things-from-chewy-that-dogs-swear-by"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/15/tmp/0a0f2c728d19/tmp-name-2-7260-1593530725-28_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Do You Have The Same Favorite \"Animal Crossing\" Villagers As Everyone Else?",
+        "description": "<h1>It’ll have to be Filbert for me!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/14/tmp/80b161fa4c1c/tmp-name-2-2485-1594133694-8_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lexiemerida/do-you-have-the-same-favourite-animal-crossing-vil-flpj475b0w\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lexiemerida/do-you-have-the-same-favourite-animal-crossing-vil-flpj475b0w",
+        "pubDate": "Wed, 08 Jul 2020 04:28:04 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lexiemerida/do-you-have-the-same-favourite-animal-crossing-vil-flpj475b0w"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/7/14/tmp/80b161fa4c1c/tmp-name-2-2485-1594133694-8_dblbig.jpg"
+        }
+      },
+      {
+        "title": "16 Cat Posts From This Week That Are (More Or Less) Proven To Produce Serotonin",
+        "description": "<h1>Sit back, relax, and enjoy these cat posts!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/1/12/campaign_images/2537e25911df/16-cat-posts-from-this-week-that-are-more-or-less-2-9154-1593606617-32_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/cat-posts-from-this-week-june-30-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/cat-posts-from-this-week-june-30-2020",
+        "pubDate": "Fri, 03 Jul 2020 13:25:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/cat-posts-from-this-week-june-30-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/1/12/campaign_images/2537e25911df/16-cat-posts-from-this-week-that-are-more-or-less-2-9154-1593606617-32_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Choose Some Cute Animals And We'll Tell You When You'll Meet Your Soulmate",
+        "description": "<h1>Have you already met them?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/2/4/tmp/0a0f2c728d19/tmp-name-2-10687-1593664494-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/ginny2020/choose-some-cute-animals-and-well-tell-you-when-y-812x6syotn\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/ginny2020/choose-some-cute-animals-and-well-tell-you-when-y-812x6syotn",
+        "pubDate": "Tue, 07 Jul 2020 05:27:07 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/ginny2020/choose-some-cute-animals-and-well-tell-you-when-y-812x6syotn"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/2/4/tmp/0a0f2c728d19/tmp-name-2-10687-1593664494-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "17 Pets Who've Mastered The Art Of Camouflage",
+        "description": "<h1>These cuties were blending in way before Waldo made it popular.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/29/23/campaign_images/c3608e205c92/17-cats-and-dogs-who-are-part-chameleon-2-6196-1593473450-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/pablovaldivia/cats-dogs-camouflage\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/pablovaldivia/cats-dogs-camouflage",
+        "pubDate": "Sat, 04 Jul 2020 11:27:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/pablovaldivia/cats-dogs-camouflage"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/29/23/campaign_images/c3608e205c92/17-cats-and-dogs-who-are-part-chameleon-2-6196-1593473450-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Which Blackpink Song Should You Listen To Based On The Pets You Pick?",
+        "description": "<h1>Hamster = \"See You Later\"?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/19/tmp/f1eeddf1b702/tmp-name-2-7699-1593544799-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/k-ram-pop/pick-some-animals-and-well-give-you-a-blackpink-s-5vhot99d2i\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/k-ram-pop/pick-some-animals-and-well-give-you-a-blackpink-s-5vhot99d2i",
+        "pubDate": "Sat, 04 Jul 2020 19:38:09 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/k-ram-pop/pick-some-animals-and-well-give-you-a-blackpink-s-5vhot99d2i"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/19/tmp/f1eeddf1b702/tmp-name-2-7699-1593544799-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "16 Dog Posts From This Week That I Have The Honor And Privilege Of Bringing To Your Attention",
+        "description": "<h1>This week is *extra* goob, just sayin'...<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/26/18/tmp/54d63fe31db3/tmp-name-2-123-1593195384-16_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-june-28-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-june-28-2020",
+        "pubDate": "Mon, 29 Jun 2020 16:18:04 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-june-28-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/26/18/tmp/54d63fe31db3/tmp-name-2-123-1593195384-16_dblbig.jpg"
+        }
+      },
+      {
+        "title": "36 Animal Tweets That Are Just So Pure And Wholesome",
+        "description": "<h1>\"I’m not saying our last cat was big, but here he is on Google Earth.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/16/campaign_images/26d5c8999ab5/36-animal-tweets-that-are-just-so-pure-and-wholes-2-7306-1593534167-19_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/josieayre1/animal-tweets-june-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/josieayre1/animal-tweets-june-2020",
+        "pubDate": "Tue, 30 Jun 2020 16:22:52 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/josieayre1/animal-tweets-june-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/16/campaign_images/26d5c8999ab5/36-animal-tweets-that-are-just-so-pure-and-wholes-2-7306-1593534167-19_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 Really Good Things That Happened This Week",
+        "description": "<h1>So. Stinkin'. Good.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/26/16/tmp/6b49fb241e4c/tmp-name-2-458-1593189912-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-june-28-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-june-28-2020",
+        "pubDate": "Wed, 01 Jul 2020 14:25:23 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-june-28-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/26/16/tmp/6b49fb241e4c/tmp-name-2-458-1593189912-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Choose Some Really Cute Dogs And We'll Reveal What Fruit Matches Your Personality",
+        "description": "<h1>Will it be an apple? Or maybe watermelon? Take this quiz to find out!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/29/20/tmp/9bc2c3b58258/tmp-name-2-5903-1593463363-1_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lzflamingo35/pick-dogs-and-the-fruit-that-matches-your-persona-cbqp7635o9\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lzflamingo35/pick-dogs-and-the-fruit-that-matches-your-persona-cbqp7635o9",
+        "pubDate": "Wed, 01 Jul 2020 02:09:10 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lzflamingo35/pick-dogs-and-the-fruit-that-matches-your-persona-cbqp7635o9"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/29/20/tmp/9bc2c3b58258/tmp-name-2-5903-1593463363-1_dblbig.jpg"
+        }
+      },
+      {
+        "title": "26 Pet Products You Might Wonder How You've Gone This Long Without Buying",
+        "description": "<h1>A cat nip-filled toy to keep your kitty occupied? Adding to cart now.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/18/tmp/30742b775cd7/tmp-name-2-4945-1592506772-25_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/jasminsuknanan/pet-products-youll-wish-you-bought-years-ago\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/jasminsuknanan/pet-products-youll-wish-you-bought-years-ago",
+        "pubDate": "Mon, 29 Jun 2020 12:25:28 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/jasminsuknanan/pet-products-youll-wish-you-bought-years-ago"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/18/tmp/30742b775cd7/tmp-name-2-4945-1592506772-25_dblbig.jpg"
+        }
+      },
+      {
+        "title": "19 Of The Most Bizarre Things People's Pets Actually Do",
+        "description": "<h1>Weirdos. Complete and utter weirdos.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/24/20/tmp/3520e2c918aa/tmp-name-2-3511-1593032272-22_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/weird-pets\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/weird-pets",
+        "pubDate": "Mon, 06 Jul 2020 18:25:28 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/weird-pets"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/24/20/tmp/3520e2c918aa/tmp-name-2-3511-1593032272-22_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Everyone Has One \"Animal Crossing\" Sheep Who Matches Their Personality — Who Are You?",
+        "description": "<h1>Please let me be Dom!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/15/tmp/0a0f2c728d19/tmp-name-2-7315-1593532323-11_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/steelmoonstone/what-animal-crossing-sheep-are-you-6hq0biownn\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/steelmoonstone/what-animal-crossing-sheep-are-you-6hq0biownn",
+        "pubDate": "Wed, 01 Jul 2020 22:08:10 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/steelmoonstone/what-animal-crossing-sheep-are-you-6hq0biownn"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/30/15/tmp/0a0f2c728d19/tmp-name-2-7315-1593532323-11_dblbig.jpg"
+        }
+      },
+      {
+        "title": "17 Birds That Look Like They Are Completely Made Up But Are Actually 100% Real",
+        "description": "<h1>Suddenly I love birds.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/25/13/campaign_images/304573dba2de/17-birds-that-look-like-they-are-completely-made--2-4934-1593093289-40_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lyapalater/birds-that-look-fake-but-are-real\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lyapalater/birds-that-look-fake-but-are-real",
+        "pubDate": "Sat, 27 Jun 2020 10:25:30 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lyapalater/birds-that-look-fake-but-are-real"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/25/13/campaign_images/304573dba2de/17-birds-that-look-like-they-are-completely-made--2-4934-1593093289-40_dblbig.jpg"
+        }
+      },
+      {
+        "title": "27 Photos That Only Exist Because They Absolutely Defied The Odds",
+        "description": "<h1>How did these things happen?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/24/19/tmp/304573dba2de/tmp-name-2-3330-1593026678-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/mikespohr/amazing-photos-that-defied-the-odds\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/mikespohr/amazing-photos-that-defied-the-odds",
+        "pubDate": "Mon, 29 Jun 2020 10:25:23 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/mikespohr/amazing-photos-that-defied-the-odds"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/24/19/tmp/304573dba2de/tmp-name-2-3330-1593026678-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Our Readers Say These 17 Products For Dogs Are The Best They've Ever Bought",
+        "description": "<h1>Including an indestructible chew toy, a no-pull harness, and a donut bed you'll probably wish came in human sizes.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/16/tmp/d1f26f8e2cd1/tmp-name-2-4557-1592498500-23_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/melanie_aman/best-dog-products-buzzfeed-readers-have-bought\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/melanie_aman/best-dog-products-buzzfeed-readers-have-bought",
+        "pubDate": "Wed, 24 Jun 2020 15:08:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/melanie_aman/best-dog-products-buzzfeed-readers-have-bought"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/16/tmp/d1f26f8e2cd1/tmp-name-2-4557-1592498500-23_dblbig.jpg"
+        }
+      },
+      {
+        "title": "17 Pets Who Have No Shame In Putting Their Jealousy On Display",
+        "description": "<h1>Give these pets the attention they deserve!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/21/tmp/b7d25034820c/tmp-name-2-12591-1592863135-8_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/pablovaldivia/jealous-cats-dogs\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/pablovaldivia/jealous-cats-dogs",
+        "pubDate": "Mon, 29 Jun 2020 02:25:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/pablovaldivia/jealous-cats-dogs"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/21/tmp/b7d25034820c/tmp-name-2-12591-1592863135-8_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Just 16 Wholesome Quarantine Moments That Will Restore Your Faith In People",
+        "description": "<h1>Just some wholesome content for you today.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/19/tmp/b7d25034820c/tmp-name-2-12220-1592853181-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/farrahpenn/wholesome-people-in-quarantine\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/farrahpenn/wholesome-people-in-quarantine",
+        "pubDate": "Thu, 25 Jun 2020 14:25:27 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/farrahpenn/wholesome-people-in-quarantine"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/19/tmp/b7d25034820c/tmp-name-2-12220-1592853181-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "19 Cat Posts From This Week That I Firmly Believe You Need To See",
+        "description": "<h1>Click for your daily dose of toe beans!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/16/tmp/30742b775cd7/tmp-name-2-11976-1592842270-13_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/cat-posts-of-the-week-june-22-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/cat-posts-of-the-week-june-22-2020",
+        "pubDate": "Fri, 26 Jun 2020 18:25:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/cat-posts-of-the-week-june-22-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/16/tmp/30742b775cd7/tmp-name-2-11976-1592842270-13_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Mark Ruffalo Has A New Kitten Named Biscotti And I Cannot, And Will Not, Get Over It",
+        "description": "<h1>BISCOTTI!! AHHH!!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/19/tmp/6ecdce48df31/tmp-name-2-12619-1592854629-35_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/ehisosifo1/mark-ruffalo-kitten-biscotti\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/ehisosifo1/mark-ruffalo-kitten-biscotti",
+        "pubDate": "Wed, 24 Jun 2020 12:25:28 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/ehisosifo1/mark-ruffalo-kitten-biscotti"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/19/tmp/6ecdce48df31/tmp-name-2-12619-1592854629-35_dblbig.jpg"
+        }
+      },
+      {
+        "title": "I Apologize In Advance For How Difficult This Will Be, But It's Time To Choose Between Hot Guys And Dogs",
+        "description": "<h1>Swim with Chris Hemsworth or surf with a puppy? Can't I do both?!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/23/1/campaign_images/3f92c548489a/i-apologize-in-advance-for-how-difficult-this-wil-2-13151-1592874724-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/morgansloss1/hot-guys-vs-puppies-would-you-rather\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/morgansloss1/hot-guys-vs-puppies-would-you-rather",
+        "pubDate": "Tue, 23 Jun 2020 15:25:30 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/morgansloss1/hot-guys-vs-puppies-would-you-rather"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/23/1/campaign_images/3f92c548489a/i-apologize-in-advance-for-how-difficult-this-wil-2-13151-1592874724-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Don't Freak Out When We Accurately Guess Your Age From Your Favorite \"Animal Crossing\" Villagers",
+        "description": "<h1>Raymond = 19 years old?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/18/tmp/6ecdce48df31/tmp-name-2-12484-1592851232-21_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/panda1645/can-we-guess-your-age-based-on-the-animal-crossing-4z8fpws5y0\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/panda1645/can-we-guess-your-age-based-on-the-animal-crossing-4z8fpws5y0",
+        "pubDate": "Sat, 27 Jun 2020 07:09:10 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/panda1645/can-we-guess-your-age-based-on-the-animal-crossing-4z8fpws5y0"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/18/tmp/6ecdce48df31/tmp-name-2-12484-1592851232-21_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Here Are 14 Really Cute Dog Posts From This Week",
+        "description": "<h1>Care for some doggage?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/20/tmp/0610bbe65a33/tmp-name-2-5085-1592511571-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-june-21-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-june-21-2020",
+        "pubDate": "Mon, 22 Jun 2020 11:25:32 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/dog-posts-from-this-week-june-21-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/20/tmp/0610bbe65a33/tmp-name-2-5085-1592511571-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 Really Good Things That Happened This Week That You Deserve To Know About",
+        "description": "<h1>Oh, to be a turtle balancing on another turtle's shell!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/18/tmp/9c09f6d1628a/tmp-name-2-4914-1592504323-18_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-june-21-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-june-21-2020",
+        "pubDate": "Mon, 22 Jun 2020 14:25:32 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-june-21-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/18/tmp/9c09f6d1628a/tmp-name-2-4914-1592504323-18_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Which \"Animal Crossing\" Squirrel Matches Your Personality Best?",
+        "description": "<h1>We can't all be Marshal.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/19/tmp/0610bbe65a33/tmp-name-2-12493-1592853196-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/panda1645/which-animal-crossing-squirrel-are-you-2hncy3mpab\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/panda1645/which-animal-crossing-squirrel-are-you-2hncy3mpab",
+        "pubDate": "Wed, 24 Jun 2020 03:28:09 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/panda1645/which-animal-crossing-squirrel-are-you-2hncy3mpab"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/19/tmp/0610bbe65a33/tmp-name-2-12493-1592853196-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Everyone's Personality Matches One \"Animal Crossing\" Cat — Who Are You?",
+        "description": "<h1>Is that you, Bob?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/14/tmp/6ecdce48df31/tmp-name-2-4403-1592490389-20_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/panda1645/which-animal-crossing-cat-are-you-most-like-c33139acsy\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/panda1645/which-animal-crossing-cat-are-you-most-like-c33139acsy",
+        "pubDate": "Tue, 23 Jun 2020 15:37:55 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/panda1645/which-animal-crossing-cat-are-you-most-like-c33139acsy"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/18/14/tmp/6ecdce48df31/tmp-name-2-4403-1592490389-20_dblbig.jpg"
+        }
+      },
+      {
+        "title": "You Either Have A Dog Aura Or A Cat Aura, And This Quiz Will Tell You Which One",
+        "description": "<h1>This is science, basically.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/12/18/tmp/83597ebf1d7f/tmp-name-2-560-1591987509-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/andyneuenschwander/dog-or-cat-person-quiz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/andyneuenschwander/dog-or-cat-person-quiz",
+        "pubDate": "Mon, 22 Jun 2020 00:25:33 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/andyneuenschwander/dog-or-cat-person-quiz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/12/18/tmp/83597ebf1d7f/tmp-name-2-560-1591987509-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Don't Be Alarmed, But It's Time To Name Just A Butt-Load Of Cute Puppies",
+        "description": "<h1>Because naming puppies is fun.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/18/tmp/b44f5ba68fb6/tmp-name-2-12237-1592849367-24_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/agdollsprinklecat/name-a-bunch-of-puppies-because-i-know-youre-bore-fdljx6o48e\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/agdollsprinklecat/name-a-bunch-of-puppies-because-i-know-youre-bore-fdljx6o48e",
+        "pubDate": "Wed, 24 Jun 2020 00:09:14 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/agdollsprinklecat/name-a-bunch-of-puppies-because-i-know-youre-bore-fdljx6o48e"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/18/tmp/b44f5ba68fb6/tmp-name-2-12237-1592849367-24_dblbig.jpg"
+        }
+      },
+      {
+        "title": "This Personality Quiz Will Reveal Which Cat You Should Get",
+        "description": "<h1>How's your purr-sonality?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/17/17/tmp/3f92c548489a/tmp-name-2-2407-1592414334-40_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lexibureau/find-out-what-cat-you-should-get-based-on-your-per-9xm2v0gv2x\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lexibureau/find-out-what-cat-you-should-get-based-on-your-per-9xm2v0gv2x",
+        "pubDate": "Thu, 18 Jun 2020 18:08:07 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lexibureau/find-out-what-cat-you-should-get-based-on-your-per-9xm2v0gv2x"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/17/17/tmp/3f92c548489a/tmp-name-2-2407-1592414334-40_dblbig.jpg"
+        }
+      },
+      {
+        "title": "18 Cat Posts From This Week For Anyone Who's Been Craving Good Kitty Content",
+        "description": "<h1>Take a minute for yourself and look at these kitters!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/15/19/tmp/405a4b6fb961/tmp-name-2-6093-1592250198-5_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/cat-posts-from-this-week-june-15-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/cat-posts-from-this-week-june-15-2020",
+        "pubDate": "Sun, 05 Jul 2020 16:25:34 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/cat-posts-from-this-week-june-15-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/15/19/tmp/405a4b6fb961/tmp-name-2-6093-1592250198-5_dblbig.jpg"
+        }
+      },
+      {
+        "title": "26 Things You Can Get On Sale At Chewy Right Now",
+        "description": "<h1>From toys to mats to food, you'll find what you need for your pet here.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/12/17/campaign_images/de4b01879697/27-things-you-can-get-on-sale-at-chewy-right-now-2-379-1591982734-21_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/nusrat21/things-you-can-get-on-sale-at-chewy-right-now\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/nusrat21/things-you-can-get-on-sale-at-chewy-right-now",
+        "pubDate": "Wed, 17 Jun 2020 10:25:30 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/nusrat21/things-you-can-get-on-sale-at-chewy-right-now"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/12/17/campaign_images/de4b01879697/27-things-you-can-get-on-sale-at-chewy-right-now-2-379-1591982734-21_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Everyone Has An \"Animal Crossing\" Bug That Matches Their Personality — Which One Are You?",
+        "description": "<h1>Woohoo!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/14/tmp/64b28a14d27e/tmp-name-2-7814-1592317336-25_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/nadiemonaghan/what-animal-crossing-bug-are-you-691xgd7ant\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/nadiemonaghan/what-animal-crossing-bug-are-you-691xgd7ant",
+        "pubDate": "Sat, 20 Jun 2020 00:28:14 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/nadiemonaghan/what-animal-crossing-bug-are-you-691xgd7ant"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/16/14/tmp/64b28a14d27e/tmp-name-2-7814-1592317336-25_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Dog Posts From This Week For Anyone Who Could Use A Little Joy Right Now",
+        "description": "<h1>So pure. So loving. So goob.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/12/17/tmp/43f99b763c7d/tmp-name-2-404-1591982675-14_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/dog-posts-of-the-week-june-14-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/dog-posts-of-the-week-june-14-2020",
+        "pubDate": "Fri, 19 Jun 2020 16:25:33 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/dog-posts-of-the-week-june-14-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/12/17/tmp/43f99b763c7d/tmp-name-2-404-1591982675-14_dblbig.jpg"
+        }
+      },
+      {
+        "title": "18 Times Cats Proved They're All Just Adorable Weirdos",
+        "description": "<h1>Cats were weird before it was cool.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/10/23/tmp/9828f05b5300/tmp-name-2-3292-1591831597-12_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/pablovaldivia/weird-cats\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/pablovaldivia/weird-cats",
+        "pubDate": "Mon, 15 Jun 2020 16:25:26 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/pablovaldivia/weird-cats"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/10/23/tmp/9828f05b5300/tmp-name-2-3292-1591831597-12_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Take A Breather And Fill Your Heart With Joy By Looking At These 15 Wholesome Quarantine Moments",
+        "description": "<h1>It's time for a small smile break.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/11/21/tmp/63901b62de55/tmp-name-2-940-1591910879-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/farrahpenn/moments-of-joy-in-quarantine\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/farrahpenn/moments-of-joy-in-quarantine",
+        "pubDate": "Mon, 15 Jun 2020 18:25:26 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/farrahpenn/moments-of-joy-in-quarantine"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/11/21/tmp/63901b62de55/tmp-name-2-940-1591910879-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Time To Find Out Which Frog In A Hat You Are",
+        "description": "<h1>🤠🐸<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/21/tmp/6b45de8756c5/tmp-name-2-1180-1594071292-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/avapines/what-frog-in-a-hat-are-you-cpjk1y0gcq\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/avapines/what-frog-in-a-hat-are-you-cpjk1y0gcq",
+        "pubDate": "Tue, 07 Jul 2020 00:48:01 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/avapines/what-frog-in-a-hat-are-you-cpjk1y0gcq"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-07/6/21/tmp/6b45de8756c5/tmp-name-2-1180-1594071292-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Do You Know The Names Of These \"Animal Crossing\" Villagers?",
+        "description": "<h1>Apple, is that you?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/23/21/tmp/304573dba2de/tmp-name-2-1290-1592946265-11_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/carolinerj33/can-you-name-these-animal-crossing-villagers-e4vfuyf3wd\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/carolinerj33/can-you-name-these-animal-crossing-villagers-e4vfuyf3wd",
+        "pubDate": "Thu, 25 Jun 2020 16:38:09 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/carolinerj33/can-you-name-these-animal-crossing-villagers-e4vfuyf3wd"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/23/21/tmp/304573dba2de/tmp-name-2-1290-1592946265-11_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If You Need Some Joy In Your Life For A Few Minutes, Here's Some Wholesome Content From This Week",
+        "description": "<h1>Just some really good content for the soul.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/4/20/tmp/aba12976aee4/tmp-name-2-3324-1591303114-5_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/farrahpenn/13-really-wholesome-moments-that-happened-in-quarantine\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/farrahpenn/13-really-wholesome-moments-that-happened-in-quarantine",
+        "pubDate": "Tue, 09 Jun 2020 06:25:31 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/farrahpenn/13-really-wholesome-moments-that-happened-in-quarantine"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/4/20/tmp/aba12976aee4/tmp-name-2-3324-1591303114-5_dblbig.jpg"
+        }
+      },
+      {
+        "title": "We'll Tell You Which Dog Breed You Are Based On The Luxury Apartment You Design",
+        "description": "<h1>Welcome!$$$<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/9/18/tmp/b5ed1e9bc273/tmp-name-2-159-1591725977-25_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/fudgesundae/design-a-luxury-apartment-to-find-out-what-dog-bre-bgmt095drk\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/fudgesundae/design-a-luxury-apartment-to-find-out-what-dog-bre-bgmt095drk",
+        "pubDate": "Sat, 13 Jun 2020 23:48:14 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/fudgesundae/design-a-luxury-apartment-to-find-out-what-dog-bre-bgmt095drk"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/9/18/tmp/b5ed1e9bc273/tmp-name-2-159-1591725977-25_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If You Love Disney, You Should Be Able To Identify All Of These Disney Cats",
+        "description": "<h1>It's time to put your cartoon cat knowledge to the test.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/9/16/tmp/efc11829d300/tmp-name-2-705-1591720472-10_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/st_koi/how-many-of-these-disney-cats-can-you-identify-eojk8bjsme\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/st_koi/how-many-of-these-disney-cats-can-you-identify-eojk8bjsme",
+        "pubDate": "Sun, 14 Jun 2020 22:28:13 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/st_koi/how-many-of-these-disney-cats-can-you-identify-eojk8bjsme"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/9/16/tmp/efc11829d300/tmp-name-2-705-1591720472-10_dblbig.jpg"
+        }
+      },
+      {
+        "title": "We Can Guess Your Age Based On The Animals You Choose",
+        "description": "<h1>99.9% accuracy.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/12/16/tmp/f8ee2baae9cd/tmp-name-2-336-1591981075-16_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/foxgirl064/we-can-guess-your-age-by-the-animals-you-pick-fdikmcxm3e\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/foxgirl064/we-can-guess-your-age-by-the-animals-you-pick-fdikmcxm3e",
+        "pubDate": "Mon, 15 Jun 2020 18:58:06 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/foxgirl064/we-can-guess-your-age-by-the-animals-you-pick-fdikmcxm3e"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/12/16/tmp/f8ee2baae9cd/tmp-name-2-336-1591981075-16_dblbig.jpg"
+        }
+      },
+      {
+        "title": "A Dog Has Tested Positive For The Coronavirus For The First Time In The US",
+        "description": "<h1>The victim in this case was a German shepherd. There's no evidence that pets help spread the virus.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/2/23/campaign_images/bbd0efaf9b96/a-dog-has-tested-positive-for-the-coronavirus-for-2-1212-1591140096-21_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/danvergano/coronavirus-dog-us-first\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/danvergano/coronavirus-dog-us-first",
+        "pubDate": "Wed, 03 Jun 2020 12:25:29 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/danvergano/coronavirus-dog-us-first"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/2/23/campaign_images/bbd0efaf9b96/a-dog-has-tested-positive-for-the-coronavirus-for-2-1212-1591140096-21_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Spend A Day As A Dog To Reveal What Dog Breed You Are",
+        "description": "<h1>This quiz is going to be ruff.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/5/17/tmp/ed05903432b1/tmp-name-2-5190-1591378953-30_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/donkeylady/live-your-life-as-a-dog-and-we-will-tell-you-what-drmxz0gpz\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/donkeylady/live-your-life-as-a-dog-and-we-will-tell-you-what-drmxz0gpz",
+        "pubDate": "Sun, 07 Jun 2020 04:34:36 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/donkeylady/live-your-life-as-a-dog-and-we-will-tell-you-what-drmxz0gpz"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/5/17/tmp/ed05903432b1/tmp-name-2-5190-1591378953-30_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Find Out Which \"Frozen 2\" Character You Are Based On The Pictures Of My Dog You Choose",
+        "description": "<h1>I love Buddy. 😭<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/4/13/tmp/fe7484991c9d/tmp-name-2-2436-1591275920-10_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/aoifefarren009/pick-some-pictures-of-my-dog-and-ill-tell-you-whi-8603m81qjl\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/aoifefarren009/pick-some-pictures-of-my-dog-and-ill-tell-you-whi-8603m81qjl",
+        "pubDate": "Sun, 14 Jun 2020 04:18:22 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/aoifefarren009/pick-some-pictures-of-my-dog-and-ill-tell-you-whi-8603m81qjl"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/4/13/tmp/fe7484991c9d/tmp-name-2-2436-1591275920-10_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Do You Think These \"Animal Crossing\" Villagers Are Ugly Or Cute?",
+        "description": "<h1>If you say Pietro is ugly I will find you.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/23/21/tmp/37b3cc8607a2/tmp-name-2-1402-1592948374-25_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/kaleb_mayer/do-you-have-the-same-opinions-as-everyone-else-on-cubcd1vbvg\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/kaleb_mayer/do-you-have-the-same-opinions-as-everyone-else-on-cubcd1vbvg",
+        "pubDate": "Thu, 25 Jun 2020 17:38:09 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/kaleb_mayer/do-you-have-the-same-opinions-as-everyone-else-on-cubcd1vbvg"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/23/21/tmp/37b3cc8607a2/tmp-name-2-1402-1592948374-25_dblbig.jpg"
+        }
+      },
+      {
+        "title": "21 Things From Chewy Pet Owners Will Probably Wish They'd Bought Years Ago",
+        "description": "<h1>Realizing I don't own all of these products is my newest ~pet~ peeve.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/5/16/campaign_images/b722d9c5508a/21-things-from-chewy-pet-owners-will-probably-wis-2-5028-1591374806-3_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/malloryannp/things-from-chewy-pet-owners-will-probably-wish-th\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/malloryannp/things-from-chewy-pet-owners-will-probably-wish-th",
+        "pubDate": "Mon, 08 Jun 2020 06:25:37 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/malloryannp/things-from-chewy-pet-owners-will-probably-wish-th"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/5/16/campaign_images/b722d9c5508a/21-things-from-chewy-pet-owners-will-probably-wis-2-5028-1591374806-3_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Become An Animal And We'll Tell You What Pet To Get",
+        "description": "<h1>Take this quiz right meow.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/2/15/tmp/c6a18be0f006/tmp-name-2-306-1591111906-2_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/hipeepsoverthere/become-an-animal-and-we-will-tell-you-what-pet-you-2anmpwpvqe\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/hipeepsoverthere/become-an-animal-and-we-will-tell-you-what-pet-you-2anmpwpvqe",
+        "pubDate": "Tue, 09 Jun 2020 22:08:19 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/hipeepsoverthere/become-an-animal-and-we-will-tell-you-what-pet-you-2anmpwpvqe"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/2/15/tmp/c6a18be0f006/tmp-name-2-306-1591111906-2_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Eliminate Some Disney Movies And We'll Reveal What Animal You Are On The Inside",
+        "description": "<h1>Time to make some tough decisions!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/1/16/tmp/0c37677fd423/tmp-name-2-524-1591029167-15_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/fizzycairn11/elimenate-some-disney-movies-to-find-out-what-anim-7hdicyjdq8\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/fizzycairn11/elimenate-some-disney-movies-to-find-out-what-anim-7hdicyjdq8",
+        "pubDate": "Tue, 02 Jun 2020 00:44:37 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/fizzycairn11/elimenate-some-disney-movies-to-find-out-what-anim-7hdicyjdq8"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/1/16/tmp/0c37677fd423/tmp-name-2-524-1591029167-15_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Literally Just 19 Great Tweets That Made Me Laugh And Smile This Week",
+        "description": "<h1>L O L!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/29/19/tmp/2a940301b4bd/tmp-name-2-195-1590781381-15_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/morganmurrell/bad-day-tweets-5-29-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/morganmurrell/bad-day-tweets-5-29-2020",
+        "pubDate": "Sun, 31 May 2020 01:24:36 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/morganmurrell/bad-day-tweets-5-29-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/29/19/tmp/2a940301b4bd/tmp-name-2-195-1590781381-15_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 Very, Very Good And Wholesome Things That Happened This Week",
+        "description": "<h1>You deserve this.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/29/18/tmp/e528e6e3020d/tmp-name-2-132-1590777626-1_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-may-29-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-may-29-2020",
+        "pubDate": "Mon, 08 Jun 2020 00:25:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/good-things-that-happened-this-week-may-29-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/29/18/tmp/e528e6e3020d/tmp-name-2-132-1590777626-1_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Dog Posts From This Week That I Think You Need To See — Trust Me",
+        "description": "<h1>The serotonin this post has &gt;&gt;&gt;<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/29/18/tmp/5532f9e1c4d5/tmp-name-2-83-1590775474-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/dog-posts-of-the-week-may-29-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/dog-posts-of-the-week-may-29-2020",
+        "pubDate": "Sun, 31 May 2020 14:25:30 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/dog-posts-of-the-week-may-29-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/29/18/tmp/5532f9e1c4d5/tmp-name-2-83-1590775474-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Everyone's A Genius At One Hogwarts Subject — Adopt A Cat To Find Out Yours",
+        "description": "<h1>This quiz is puuuurrrfect.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/1/19/tmp/13989c35e122/tmp-name-2-207-1591040160-8_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lakenbrooks222/everyones-a-genius-at-one-hogwarts-subject-adopt-dypsewz2yq\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lakenbrooks222/everyones-a-genius-at-one-hogwarts-subject-adopt-dypsewz2yq",
+        "pubDate": "Sat, 06 Jun 2020 23:04:51 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lakenbrooks222/everyones-a-genius-at-one-hogwarts-subject-adopt-dypsewz2yq"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/1/19/tmp/13989c35e122/tmp-name-2-207-1591040160-8_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 Wholesome Tweets About Animals That Prove How Ridiculous They Are",
+        "description": "<h1>\"Good morning to everyone except this possum whose sleeping bum poked a hole in our ceiling\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/29/13/tmp/9918794b9c1e/tmp-name-2-4456-1590759660-5_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/josieayre1/super-cute-animal-tweets-from-this-week\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/josieayre1/super-cute-animal-tweets-from-this-week",
+        "pubDate": "Fri, 29 May 2020 17:14:37 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/josieayre1/super-cute-animal-tweets-from-this-week"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/29/13/tmp/9918794b9c1e/tmp-name-2-4456-1590759660-5_dblbig.jpg"
+        }
+      },
+      {
+        "title": "16 Of The Absolute Best Dog Posts From This Month",
+        "description": "<h1>Oh, to be a dog napping in a dog-sized human bed...<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/28/15/tmp/0c32b688e863/tmp-name-2-1735-1590681043-19_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/best-dog-posts-may-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/best-dog-posts-may-2020",
+        "pubDate": "Sat, 13 Jun 2020 20:25:33 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/best-dog-posts-may-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/28/15/tmp/0c32b688e863/tmp-name-2-1735-1590681043-19_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Very Good Dogs Posing In Masks To Show Humans How It's Done",
+        "description": "<h1>Dogs don't need masks, but they'll model them for us if they have to.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/21/tmp/012730d08244/tmp-name-2-1958-1590614309-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/andyneuenschwander/dogs-wearing-face-masks\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/andyneuenschwander/dogs-wearing-face-masks",
+        "pubDate": "Fri, 29 May 2020 14:24:57 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/andyneuenschwander/dogs-wearing-face-masks"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/21/tmp/012730d08244/tmp-name-2-1958-1590614309-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "34 Things You Might Want To Buy If You Have A Puppy",
+        "description": "<h1>These items are practically *pawfect* in every way.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/17/tmp/bdfcda2dabaf/tmp-name-2-1125-1590512850-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/hbraga/products-for-new-puppy-parents-puppy-owners\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/hbraga/products-for-new-puppy-parents-puppy-owners",
+        "pubDate": "Mon, 08 Jun 2020 00:25:27 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/hbraga/products-for-new-puppy-parents-puppy-owners"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/17/tmp/bdfcda2dabaf/tmp-name-2-1125-1590512850-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Jennifer Garner Pushed Her Cat Around In A Stroller While Taking A Walk",
+        "description": "<h1>The life!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/21/campaign_images/d773c450dff9/i-want-to-be-jennifer-garners-cat-2-2060-1590616654-22_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lyapalater/i-want-to-be-jennifer-garners-cat\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lyapalater/i-want-to-be-jennifer-garners-cat",
+        "pubDate": "Sat, 30 May 2020 16:25:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lyapalater/i-want-to-be-jennifer-garners-cat"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/21/campaign_images/d773c450dff9/i-want-to-be-jennifer-garners-cat-2-2060-1590616654-22_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Kneel And Weep Before The First Koala Joey To Be Born Since The Devastating Australian Bushfires",
+        "description": "<h1>Because there is still beauty in the world.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/2/tmp/26992caf4ebc/tmp-name-2-83-1590545281-7_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/juliawilling/first-koala-joey-born-since-australian-bushfires\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/juliawilling/first-koala-joey-born-since-australian-bushfires",
+        "pubDate": "Wed, 27 May 2020 12:25:30 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/juliawilling/first-koala-joey-born-since-australian-bushfires"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/2/tmp/26992caf4ebc/tmp-name-2-83-1590545281-7_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Here Are 15 Things People Are Doing In Quarantine That Will Restore Your Hope In Humanity",
+        "description": "<h1>Your weekly dose of happiness.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/20/campaign_images/d8b0ffa26627/here-are-15-things-people-are-doing-in-quarantine-2-204-1590525132-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/farrahpenn/quarantine-pure-wholesome-moments\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/farrahpenn/quarantine-pure-wholesome-moments",
+        "pubDate": "Sat, 30 May 2020 14:25:39 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/farrahpenn/quarantine-pure-wholesome-moments"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/20/campaign_images/d8b0ffa26627/here-are-15-things-people-are-doing-in-quarantine-2-204-1590525132-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "I Love The The Official \"Air Bud\" Twitter Account And Just Wanted To Share It With All Of You",
+        "description": "<h1>A perfect Twitter account <i>does<\/i> exist.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/17/campaign_images/7c55595c6df9/i-love-the-the-official-air-bud-twitter-account-a-2-1209-1590513567-13_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lyapalater/i-just-dicovered-the-official-air-bud-twitter-acco\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lyapalater/i-just-dicovered-the-official-air-bud-twitter-acco",
+        "pubDate": "Tue, 26 May 2020 17:19:31 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lyapalater/i-just-dicovered-the-official-air-bud-twitter-acco"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/17/campaign_images/7c55595c6df9/i-love-the-the-official-air-bud-twitter-account-a-2-1209-1590513567-13_dblbig.jpg"
+        }
+      },
+      {
+        "title": "17 Cat Posts That Are So Cute, They Might Just Make Your Entire Week",
+        "description": "<h1>\"Wow. My eyes have been blessed.\" —You at the end of this post.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/18/campaign_images/5b6709d4d9a6/17-cat-posts-that-are-so-cute-they-might-just-mak-2-83-1590518784-29_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lizmrichardson/weekly-cat-posts-may-26-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lizmrichardson/weekly-cat-posts-may-26-2020",
+        "pubDate": "Sun, 31 May 2020 21:25:25 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lizmrichardson/weekly-cat-posts-may-26-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/18/campaign_images/5b6709d4d9a6/17-cat-posts-that-are-so-cute-they-might-just-mak-2-83-1590518784-29_dblbig.jpg"
+        }
+      },
+      {
+        "title": "18 Big Dogs And 1 Cow Who Are Totally Allowed To Say They're Lapdogs",
+        "description": "<h1>Big on the outside, lil' puppies on the inside.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/20/23/tmp/7b86992e9dbb/tmp-name-2-146-1590017771-23_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/pablovaldivia/big-dog-lap-dog-cow\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/pablovaldivia/big-dog-lap-dog-cow",
+        "pubDate": "Tue, 26 May 2020 01:24:40 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/pablovaldivia/big-dog-lap-dog-cow"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/20/23/tmp/7b86992e9dbb/tmp-name-2-146-1590017771-23_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Everyone's Personality Matches One Of My 5 Cats — Who Are You?",
+        "description": "<h1>Are you more of a Goop or a Shube?<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/18/tmp/d773c450dff9/tmp-name-2-1386-1590602532-2_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/jessmckenn/which-of-my-five-cats-are-you-8q0ifega2q\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/jessmckenn/which-of-my-five-cats-are-you-8q0ifega2q",
+        "pubDate": "Thu, 28 May 2020 17:44:42 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/jessmckenn/which-of-my-five-cats-are-you-8q0ifega2q"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/18/tmp/d773c450dff9/tmp-name-2-1386-1590602532-2_dblbig.jpg"
+        }
+      },
+      {
+        "title": "24 Things That’ll Help Your Pet Get More Exercise",
+        "description": "<h1>You may even get a bit of a workout too.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/4/20/campaign_images/e2a59ed24a9c/24-things-thatll-help-your-pet-get-more-exercise-2-3312-1591302838-32_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/melanie_aman/things-thatll-help-your-pet-get-more-exercise\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/melanie_aman/things-thatll-help-your-pet-get-more-exercise",
+        "pubDate": "Thu, 04 Jun 2020 20:34:05 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/melanie_aman/things-thatll-help-your-pet-get-more-exercise"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/4/20/campaign_images/e2a59ed24a9c/24-things-thatll-help-your-pet-get-more-exercise-2-3312-1591302838-32_dblbig.jpg"
+        }
+      },
+      {
+        "title": "20 Suuuper Creative Things People Have Made For Their Pets While In Quarantine",
+        "description": "<h1>*immediately pins the cat-sized <i>Bob's Burgers<\/i> joint to Pinterest board*<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/21/19/tmp/c700a539f461/tmp-name-2-122-1590089046-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/pet-quarantine-projects\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/pet-quarantine-projects",
+        "pubDate": "Thu, 28 May 2020 06:25:29 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/pet-quarantine-projects"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/21/19/tmp/c700a539f461/tmp-name-2-122-1590089046-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "41 Cheap And Clever DIYs For Happy Healthy Chickens",
+        "description": "<h1>Chickens: the gift that keep on giving.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/14/17/tmp/e6404ad5f0be/tmp-name-2-832-1589476135-5_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/peggy/chickens-raising-coop-101\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/peggy/chickens-raising-coop-101",
+        "pubDate": "Tue, 30 Jun 2020 15:25:27 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/peggy/chickens-raising-coop-101"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/14/17/tmp/e6404ad5f0be/tmp-name-2-832-1589476135-5_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Pretend To Be A Mermaid For A Day And We'll Reveal Which Sea Creature Would Be Your Bestie",
+        "description": "<h1>I wanna be where the ~sea creatures~ are.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/19/tmp/44273591e5ab/tmp-name-2-1597-1590606838-6_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/brookeob/create-your-mermaid-life-and-well-tell-you-which-45vj1rwzpw\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/brookeob/create-your-mermaid-life-and-well-tell-you-which-45vj1rwzpw",
+        "pubDate": "Thu, 28 May 2020 21:14:43 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/brookeob/create-your-mermaid-life-and-well-tell-you-which-45vj1rwzpw"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/27/19/tmp/44273591e5ab/tmp-name-2-1597-1590606838-6_dblbig.jpg"
+        }
+      },
+      {
+        "title": "I Cannot Believe How Big Justin Bieber's Exotic Cat Is, And Seriously, You Have To See It For Yourself",
+        "description": "<h1>Call him Justin Exotic.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/14/campaign_images/4ce16fbd4950/i-cannot-believe-how-big-justin-biebers-exotic-ca-2-715-1590505133-8_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/terrycarter/justin-biebers-exotic-cats-are-huge\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/terrycarter/justin-biebers-exotic-cats-are-huge",
+        "pubDate": "Tue, 26 May 2020 14:58:58 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/terrycarter/justin-biebers-exotic-cats-are-huge"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/26/14/campaign_images/4ce16fbd4950/i-cannot-believe-how-big-justin-biebers-exotic-ca-2-715-1590505133-8_dblbig.jpg"
+        }
+      },
+      {
+        "title": "15 Really Good Things From This Week I Firmly Believe Everyone Should Know About",
+        "description": "<h1>The serotonin levels in this post are astronomical.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/22/17/tmp/aec995f0b974/tmp-name-2-1840-1590168193-3_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/weekly-good-things-may-24-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/weekly-good-things-may-24-2020",
+        "pubDate": "Wed, 27 May 2020 13:25:26 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/weekly-good-things-may-24-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/22/17/tmp/aec995f0b974/tmp-name-2-1840-1590168193-3_dblbig.jpg"
+        }
+      },
+      {
+        "title": "25 \"I Can't Unsee That\" Tweets That Are Hilariously On Point",
+        "description": "<h1>\"Did you ever notice that...\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/21/1/tmp/c1ca2a7347a3/tmp-name-2-88-1590023769-22_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/mikespohr/i-cant-unsee-that-tweets-that-are-funny\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/mikespohr/i-cant-unsee-that-tweets-that-are-funny",
+        "pubDate": "Mon, 25 May 2020 16:25:27 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/mikespohr/i-cant-unsee-that-tweets-that-are-funny"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/21/1/tmp/c1ca2a7347a3/tmp-name-2-88-1590023769-22_dblbig.jpg"
+        }
+      },
+      {
+        "title": "If You Haven't Laughed In A While, These 25 Great Tweets Will Do The Trick",
+        "description": "<h1>L O L!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/22/18/tmp/7b9b5463a734/tmp-name-2-2050-1590172736-10_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/morganmurrell/bad-day-tweets-5-22-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/morganmurrell/bad-day-tweets-5-22-2020",
+        "pubDate": "Tue, 26 May 2020 08:25:37 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/morganmurrell/bad-day-tweets-5-22-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/22/18/tmp/7b9b5463a734/tmp-name-2-2050-1590172736-10_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Here Are 7 Animals As Defined By Wikipedia – Can You Guess Which Animals They're Talking About?",
+        "description": "<h1>It's harder than you think!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/16/tmp/d1f26f8e2cd1/tmp-name-2-11839-1592843652-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/snakes_are_so_so_cute/can-you-guess-the-animal-from-the-wikipedia-defini-ccgnpwm2d2\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/snakes_are_so_so_cute/can-you-guess-the-animal-from-the-wikipedia-defini-ccgnpwm2d2",
+        "pubDate": "Tue, 23 Jun 2020 16:48:07 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/snakes_are_so_so_cute/can-you-guess-the-animal-from-the-wikipedia-defini-ccgnpwm2d2"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-06/22/16/tmp/d1f26f8e2cd1/tmp-name-2-11839-1592843652-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "21 Wholesome Tweets About Animals That Prove How Ridiculous They Are",
+        "description": "<h1>\"me, seventy times per day: who’s a tiny baby?? are you a tiny baby????\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/22/10/tmp/de70877ec0da/tmp-name-2-591-1590142465-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/josieayre1/super-cute-animal-tweets-that-will-melt-your-heart\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/josieayre1/super-cute-animal-tweets-that-will-melt-your-heart",
+        "pubDate": "Tue, 26 May 2020 00:25:23 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/josieayre1/super-cute-animal-tweets-that-will-melt-your-heart"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/22/10/tmp/de70877ec0da/tmp-name-2-591-1590142465-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "21 Cats Who Know They're Adorable Jerks And Are Proud Of It",
+        "description": "<h1>A cat's curiosity won't kill them, it's coming for you.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/19/23/tmp/95fd200c7798/tmp-name-2-1480-1589929550-17_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/pablovaldivia/cats-being-rude\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/pablovaldivia/cats-being-rude",
+        "pubDate": "Mon, 25 May 2020 17:25:24 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/pablovaldivia/cats-being-rude"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/19/23/tmp/95fd200c7798/tmp-name-2-1480-1589929550-17_dblbig.jpg"
+        }
+      },
+      {
+        "title": "21 Before-And-After Pictures Of Pets Who Were Adopted During Quarantine",
+        "description": "<h1>I think I found a silver lining...<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/19/tmp/5f067e508247/tmp-name-2-685-1589830818-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/before-and-after-pets-being-adopted-quarantine\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/before-and-after-pets-being-adopted-quarantine",
+        "pubDate": "Sat, 23 May 2020 19:25:26 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/before-and-after-pets-being-adopted-quarantine"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/19/tmp/5f067e508247/tmp-name-2-685-1589830818-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Wanna Know If You're A Sewer Rat Or An Attic Rat? Take This Oddly Specific Quiz To Find Out",
+        "description": "<h1>\"We prey at night, we stalk at night, we're the rats.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/21/20/tmp/fdf0777e048c/tmp-name-2-207-1590091761-12_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/theoffbeatworm/are-you-a-sewer-rat-or-an-attic-rat-b9q4cwzn5q\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/theoffbeatworm/are-you-a-sewer-rat-or-an-attic-rat-b9q4cwzn5q",
+        "pubDate": "Sun, 24 May 2020 16:54:42 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/theoffbeatworm/are-you-a-sewer-rat-or-an-attic-rat-b9q4cwzn5q"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/21/20/tmp/fdf0777e048c/tmp-name-2-207-1590091761-12_dblbig.jpg"
+        }
+      },
+      {
+        "title": "It's Finally Time To Find Out What Hogwarts House Your Pet Belongs In",
+        "description": "<h1>Imagine the sorting hat on your baby! So small! So floppy!<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/22/campaign_images/8310fe015a4e/we-know-what-hogwarts-house-your-pet-truly-belong-2-662-1589839203-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/alliehayes/harry-potter-pet-sorting-hat-quiz-remix\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/alliehayes/harry-potter-pet-sorting-hat-quiz-remix",
+        "pubDate": "Wed, 20 May 2020 22:25:40 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/alliehayes/harry-potter-pet-sorting-hat-quiz-remix"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/22/campaign_images/8310fe015a4e/we-know-what-hogwarts-house-your-pet-truly-belong-2-662-1589839203-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Try Not To Crack A Grin At These 18 Wholesome Quarantine Moments From This Week",
+        "description": "<h1>Some wholesome content that your soul needs.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/18/tmp/b7af842808a5/tmp-name-2-410-1589826101-3_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/farrahpenn/wholesome-quarantine-moments-this-week\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/farrahpenn/wholesome-quarantine-moments-this-week",
+        "pubDate": "Fri, 22 May 2020 09:25:57 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/farrahpenn/wholesome-quarantine-moments-this-week"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/18/tmp/b7af842808a5/tmp-name-2-410-1589826101-3_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Everyone's Personality Matches A Cat Breed – What's Your Match?",
+        "description": "<h1>I want all the cats. Ever.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/22/20/tmp/f81041ef9d8e/tmp-name-2-2637-1590180580-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/cherry-y/answer-random-questions-and-we-will-reveal-which-c-5kq8zcjbq9\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/cherry-y/answer-random-questions-and-we-will-reveal-which-c-5kq8zcjbq9",
+        "pubDate": "Wed, 27 May 2020 00:44:42 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/cherry-y/answer-random-questions-and-we-will-reveal-which-c-5kq8zcjbq9"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/22/20/tmp/f81041ef9d8e/tmp-name-2-2637-1590180580-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "This Photographer Is Working To Document Species Before They Go Extinct",
+        "description": "<h1>\"Each species that we photograph is precious, irreplaceable, and in my mind, has a basic right to exist.\"<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/19/2/tmp/4f7b4efb5df5/tmp-name-2-132-1589854553-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeednews.com/article/katebubacz/photo-ark-species-before-extinction\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeednews.com/article/katebubacz/photo-ark-species-before-extinction",
+        "pubDate": "Tue, 19 May 2020 15:44:36 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeednews.com/article/katebubacz/photo-ark-species-before-extinction"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/19/2/tmp/4f7b4efb5df5/tmp-name-2-132-1589854553-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Make An Ice Cream Sundae And We'll Reveal Your Perfect Pet",
+        "description": "<h1>The only thing sweeter than ice cream is a pet.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/19/18/tmp/88996874c2bc/tmp-name-2-384-1589913336-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sofiev88/pick-some-ice-creams-and-we-will-reveal-what-pet-y-59me4bmgg4\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sofiev88/pick-some-ice-creams-and-we-will-reveal-what-pet-y-59me4bmgg4",
+        "pubDate": "Sun, 24 May 2020 01:04:49 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sofiev88/pick-some-ice-creams-and-we-will-reveal-what-pet-y-59me4bmgg4"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/19/18/tmp/88996874c2bc/tmp-name-2-384-1589913336-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Cat Posts From This Week That I Firmly Believe Every Cat Person Needs To See",
+        "description": "<h1>\"Pspspspspspspsps!\" —All of us right now<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/17/tmp/d07a9784d96e/tmp-name-2-156-1589821272-0_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/weekly-cat-posts-may-18-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/weekly-cat-posts-may-18-2020",
+        "pubDate": "Mon, 18 May 2020 22:24:38 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/weekly-cat-posts-may-18-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/17/tmp/d07a9784d96e/tmp-name-2-156-1589821272-0_dblbig.jpg"
+        }
+      },
+      {
+        "title": "Let's Take A Minute To Talk About What Kate Beckinsale Is Doing With Her Cats During Quarantine",
+        "description": "<h1>This is peak quarantine cat content.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/20/tmp/8310fe015a4e/tmp-name-2-261-1589832426-2_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/lyapalater/lets-take-a-minute-to-talk-about-what-kate-beckinsale-is\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/lyapalater/lets-take-a-minute-to-talk-about-what-kate-beckinsale-is",
+        "pubDate": "Tue, 19 May 2020 10:25:32 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/lyapalater/lets-take-a-minute-to-talk-about-what-kate-beckinsale-is"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/18/20/tmp/8310fe015a4e/tmp-name-2-261-1589832426-2_dblbig.jpg"
+        }
+      },
+      {
+        "title": "24 Tweets That Prove Chris Evans Has The Best And Most Wholesome Account",
+        "description": "<h1>Warning: contains extensive dog content.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/15/7/campaign_images/02a909da07a6/28-tweets-that-prove-chris-evans-has-the-best-and-2-269-1589528557-2_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/jennaguillaume/chris-evans-wholesome-tweets\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/jennaguillaume/chris-evans-wholesome-tweets",
+        "pubDate": "Tue, 19 May 2020 18:25:37 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/jennaguillaume/chris-evans-wholesome-tweets"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/15/7/campaign_images/02a909da07a6/28-tweets-that-prove-chris-evans-has-the-best-and-2-269-1589528557-2_dblbig.jpg"
+        }
+      },
+      {
+        "title": "14 Dog Posts From This Week That Are Honestly Just Really Important",
+        "description": "<h1>I wish I could pet all of dems.<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/15/18/tmp/cdb87f66dd02/tmp-name-2-2036-1589566622-18_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/weekly-dog-posts-may-17-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/weekly-dog-posts-may-17-2020",
+        "pubDate": "Mon, 18 May 2020 22:25:36 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/weekly-dog-posts-may-17-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/15/18/tmp/cdb87f66dd02/tmp-name-2-2036-1589566622-18_dblbig.jpg"
+        }
+      },
+      {
+        "title": "16 Very, Very, Veeeeery Good Things That Happened This Week",
+        "description": "<h1>\"Let it go.\" —Snoop Dogg and Elsa<\/h1><p><img src=\"https://img.buzzfeed.com/buzzfeed-static/static/2020-05/15/15/tmp/a4f30c5fc982/tmp-name-2-1306-1589556973-5_dblbig.jpg\" /><\/p><hr /><p><a href=\"https://www.buzzfeed.com/sydrobinson1/weekly-good-things-may-17-2020\">View Entire Post &rsaquo;<\/a><\/p>",
+        "link": "https://www.buzzfeed.com/sydrobinson1/weekly-good-things-may-17-2020",
+        "pubDate": "Mon, 18 May 2020 17:25:44 -0400",
+        "guid": {
+          "isPermaLink": "false",
+          "#text": "https://www.buzzfeed.com/sydrobinson1/weekly-good-things-may-17-2020"
+        },
+        "thumbnail": {
+          "url": "https://img.buzzfeed.com/buzzfeed-static/static/2020-05/15/15/tmp/a4f30c5fc982/tmp-name-2-1306-1589556973-5_dblbig.jpg"
+        }
+      }
+    ]
+  }
+}

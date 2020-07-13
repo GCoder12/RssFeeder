@@ -7,6 +7,9 @@ android {
     compileSdkVersion 28
     buildToolsVersion "29.0.3"
 
+    testOptions {
+        unitTests.returnDefaultValues = true
+    }
     defaultConfig {
         applicationId "com.news.newsreader"
         minSdkVersion 21
@@ -52,6 +55,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     testImplementation 'org.robolectric:robolectric:4.3'
+    testImplementation "org.json:json:20140107"
 
     // Required -- JUnit 4 framework
     testImplementation 'junit:junit:4.12'
