@@ -13,6 +13,7 @@ import androidx.lifecycle.ViewModelProvider
 import com.news.newsreader.model.db.models.CategoryWithNews
 import com.news.newsreader.model.db.models.NewsCategoryModel
 import com.news.newsreader.ui.NewsViewModel
+import com.news.newsreader.ui.ViewModelFactory
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -28,15 +29,18 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setSupportActionBar(main_activity_toolbar)
-        viewModel = ViewModelProvider(this).get(NewsViewModel::class.java)
-        viewModel.categories.observe(this, Observer {
-            Log.d(TAG,"Received categories $it")
-            categoriesList = it
-        })
-        viewModel.items.observe(this, Observer {
-            Log.d(TAG,"Received CategoriesWithNews $it")
-            categoriesSelectedList = it
-        })
+        (this.application as NewsReaderApplication)?.let {
+            viewModel = ViewModelFactory(it.AppContainer.repository).create(NewsViewModel::class.java)
+            viewModel.categories.observe(this, Observer {
+                Log.d(TAG,"Received categories $it")
+                categoriesList = it
+            })
+            viewModel.items.observe(this, Observer {
+                Log.d(TAG,"Received CategoriesWithNews $it")
+                categoriesSelectedList = it
+            })
+        }
+
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {

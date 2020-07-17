@@ -3,7 +3,7 @@ package com.news.newsreader
 import android.app.Application
 import android.content.Context
 import android.content.res.AssetManager
-import com.news.newsreader.model.api.ApiService
+import com.news.newsreader.model.api.RemoteDataSource
 import com.news.newsreader.model.db.models.NewsModel
 import com.news.newsreader.model.repo.Repository
 import com.news.newsreader.ui.NewsViewModel
@@ -39,10 +39,10 @@ class UnitTests {
         val assets: AssetManager = mock()
         `when`(context.assets).thenReturn(assets)
         val dataHelperMock: DataHelper = DataHelper.getInstance(context)
-        val mutableList = parseFile(assets, dataHelperMock, ApiService.CATEGORY_FEED_1).toMutableList()
-        mutableList.addAll(parseFile(assets, dataHelperMock, ApiService.CATEGORY_FEED_2))
-        mutableList.addAll(parseFile(assets, dataHelperMock, ApiService.CATEGORY_FEED_3))
-        mutableList.addAll(parseFile(assets, dataHelperMock, ApiService.CATEGORY_FEED_4))
+        val mutableList = parseFile(assets, dataHelperMock, RemoteDataSource.CATEGORY_FEED_1).toMutableList()
+        mutableList.addAll(parseFile(assets, dataHelperMock, RemoteDataSource.CATEGORY_FEED_2))
+        mutableList.addAll(parseFile(assets, dataHelperMock, RemoteDataSource.CATEGORY_FEED_3))
+        mutableList.addAll(parseFile(assets, dataHelperMock, RemoteDataSource.CATEGORY_FEED_4))
         println("Mutable List ${mutableList.map { it.title.substring(0,10) }}")
     }
 

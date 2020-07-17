@@ -6,7 +6,7 @@ import com.news.newsreader.model.db.models.NewsModel
 /**
  * Fake web data
  */
-class ApiService(val helper: DataHelper) {
+class RemoteDataSource(val helper: DataHelper) {
 
     companion object {
         val CATEGORY_FEED_1 = "Nasa - Breaking News"

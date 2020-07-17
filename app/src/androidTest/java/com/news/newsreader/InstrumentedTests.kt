@@ -4,7 +4,6 @@ import android.content.Context
 import android.util.Log
 import androidx.room.Room
 import androidx.test.core.app.ApplicationProvider
-import com.news.newsreader.model.api.ApiService
 import com.news.newsreader.model.db.NewsDao
 import com.news.newsreader.model.db.models.NewsModel
 import com.news.newsreader.model.db.NewsRoomDatabase

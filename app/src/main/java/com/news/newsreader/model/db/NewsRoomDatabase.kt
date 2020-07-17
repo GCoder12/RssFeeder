@@ -12,11 +12,12 @@ import kotlinx.coroutines.CoroutineScope
 abstract class NewsRoomDatabase : RoomDatabase() {
 
     abstract fun NewsDao(): NewsDao
+    lateinit var newsRoomDbCallback: Callback
 
     companion object {
         var INSTANCE: NewsRoomDatabase? = null
 
-        fun getDatabase(context: Context, scope: CoroutineScope): NewsRoomDatabase {
+        fun getDatabase(context: Context): NewsRoomDatabase {
             val TEMP_INSTANCE = INSTANCE
             if (TEMP_INSTANCE != null) {
                 return TEMP_INSTANCE
@@ -26,7 +27,8 @@ abstract class NewsRoomDatabase : RoomDatabase() {
                     context,
                     NewsRoomDatabase::class.java,
                     "NewsDb"
-                ).addCallback(NewsRoomDbCallback(scope)).build()
+                ).build()
+//                ).addCallback(NewsRoomDbCallback(scope)).build()
                 INSTANCE = instance
                 return instance
             }

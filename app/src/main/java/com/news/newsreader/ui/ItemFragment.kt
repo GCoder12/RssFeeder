@@ -10,6 +10,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
+import com.news.newsreader.NewsReaderApplication
 import com.news.newsreader.R
 import com.news.newsreader.model.db.models.CategoryWithNews
 import com.news.newsreader.ui.adapter.ParentListAdapter
@@ -34,22 +35,28 @@ class ItemFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
+
         val view = inflater.inflate(R.layout.fragment_item_list, container, false)
-        newsViewModel = ViewModelProvider(this).get(NewsViewModel::class.java)
-        newsViewModel.items.observe(viewLifecycleOwner, Observer {
-            Log.d(TAG,"Setting list ${it}")
-            setList(it)
-        })
-        newsViewModel.categories.observe(viewLifecycleOwner, Observer {
-            Log.d(TAG,"Received categories ${it}")
+        val appData = (activity?.application as NewsReaderApplication).AppContainer
+        appData?.let {
+            newsViewModel = ViewModelFactory(appData.repository).create(NewsViewModel::class.java)
+//            newsViewModel = ViewModelProvider(this).get(NewsViewModel::class.java)
+            newsViewModel.items.observe(viewLifecycleOwner, Observer {
+                Log.d(TAG,"Setting list ${it}")
+                setList(it)
+            })
+            newsViewModel.categories.observe(viewLifecycleOwner, Observer {
+                Log.d(TAG,"Received categories ${it}")
 
-        })
+            })
 
-        if (view is RecyclerView) {
-            recyclerView = view
+            if (view is RecyclerView) {
+                recyclerView = view
+            }
+            newsViewModel.fetchNewsItems()
+            return view
         }
-        newsViewModel.fetchNewsItems()
-        return view
+
     }
 
     private val adapterListener = object : ParentListAdapter.AdapterListener {

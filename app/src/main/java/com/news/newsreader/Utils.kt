@@ -1,8 +1,7 @@
 package com.news.newsreader
 
 import android.content.Context
-import com.news.newsreader.model.api.ApiService
-import com.news.newsreader.model.db.models.NewsCategoryModel
+import com.news.newsreader.model.api.RemoteDataSource
 import com.news.newsreader.model.db.models.NewsModel
 import org.json.JSONObject
 import java.io.BufferedReader
@@ -64,10 +63,10 @@ class DataHelper(val context: Context) {
 
     fun getFileNameForCategory(category: String) : String{
         return when (category) {
-            ApiService.CATEGORY_FEED_1 -> Constants.FEED_FILENAME_1
-            ApiService.CATEGORY_FEED_2 -> Constants.FEED_FILENAME_2
-            ApiService.CATEGORY_FEED_3 -> Constants.FEED_FILENAME_3
-            ApiService.CATEGORY_FEED_4 -> Constants.FEED_FILENAME_4
+            RemoteDataSource.CATEGORY_FEED_1 -> Constants.FEED_FILENAME_1
+            RemoteDataSource.CATEGORY_FEED_2 -> Constants.FEED_FILENAME_2
+            RemoteDataSource.CATEGORY_FEED_3 -> Constants.FEED_FILENAME_3
+            RemoteDataSource.CATEGORY_FEED_4 -> Constants.FEED_FILENAME_4
             else -> ""
         }
     }
