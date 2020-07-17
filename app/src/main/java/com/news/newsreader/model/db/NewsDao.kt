@@ -15,12 +15,11 @@ interface NewsDao {
 
     @Transaction
     @Query("SELECT * from newscategorymodel WHERE isDisplayed is 1")
-    fun getNewsCategoriesToDisplay(): LiveData<List<CategoryWithNews>>
+    fun getNewsItemsWithCategories(): List<CategoryWithNews>
 
     @Transaction
     @Query("SELECT * from newscategorymodel")
-    fun getPossibleCategories() : LiveData<List<NewsCategoryModel>>
-
+    fun getAllCategories() : List<NewsCategoryModel>
 
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insert(newsCategoryModel: NewsCategoryModel)

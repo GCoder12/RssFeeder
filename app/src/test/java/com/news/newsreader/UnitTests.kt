@@ -27,8 +27,8 @@ class UnitTests {
     fun testMockingNonInterface() {
         val application: Application = mock()
         val repository: Repository = mock()
-        val viewModel = NewsViewModel(application)
-        viewModel.repository = repository
+
+        val viewModel = NewsViewModel(repository)
         viewModel.fetchNewsItems()
     }
 

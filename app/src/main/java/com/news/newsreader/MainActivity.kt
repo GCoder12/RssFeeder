@@ -13,32 +13,23 @@ import androidx.lifecycle.ViewModelProvider
 import com.news.newsreader.model.db.models.CategoryWithNews
 import com.news.newsreader.model.db.models.NewsCategoryModel
 import com.news.newsreader.ui.NewsViewModel
-import com.news.newsreader.ui.ViewModelFactory
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
     val TAG = MainActivity::class.java.simpleName
     lateinit var viewModel : NewsViewModel
-    lateinit var categoriesList : List<NewsCategoryModel>
-    lateinit var categoriesSelectedList : List<CategoryWithNews>
-
-    private val REQUEST_CODE = 1;
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         setSupportActionBar(main_activity_toolbar)
         (this.application as NewsReaderApplication)?.let {
-            viewModel = ViewModelFactory(it.AppContainer.repository).create(NewsViewModel::class.java)
+            viewModel = ViewModelProvider(this,it.AppContainer.viewModelFactory).get(NewsViewModel::class.java)
             viewModel.categories.observe(this, Observer {
                 Log.d(TAG,"Received categories $it")
-                categoriesList = it
             })
-            viewModel.items.observe(this, Observer {
-                Log.d(TAG,"Received CategoriesWithNews $it")
-                categoriesSelectedList = it
-            })
+
         }
 
     }
@@ -48,31 +39,7 @@ class MainActivity : AppCompatActivity() {
         return super.onCreateOptionsMenu(menu)
     }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean {
-        when (item.itemId) {
-            R.id.menu_action_categories -> {
-                val intent = Intent(this,CategoriesActivity::class.java);
-                intent.putExtra(Constants.KEY_EXTRA_AVAILABLE_CATEGORIES,ArrayList(categoriesList.map {
-                    it.category
-                }))
-                intent.putExtra(Constants.KEY_EXTRA_SELECTED_CATEGORIES,ArrayList(categoriesSelectedList.map {
-                    it.newsCategoryModel.category
-                }))
-                startActivityForResult(intent,REQUEST_CODE)
-            }
-        }
-        return super.onOptionsItemSelected(item)
-    }
-
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
-        if (requestCode==REQUEST_CODE && resultCode == Activity.RESULT_OK) {
-            data?.let {
-                val categoriesSelected = it.getStringArrayListExtra(Constants.KEY_EXTRA_SELECTED_CATEGORIES)
-                viewModel.updateDisplayedNews(categoriesSelected)
-                Log.d(TAG,"Categories selected ${categoriesSelected}")
-            }
-
-        }
+    override fun onOptionsItemSelected(item: MenuItem?): Boolean {
+        return false
     }
 }

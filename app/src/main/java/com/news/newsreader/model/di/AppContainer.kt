@@ -8,6 +8,7 @@ import com.news.newsreader.model.api.RemoteDataSource
 import com.news.newsreader.model.db.NewsDao
 import com.news.newsreader.model.db.NewsRoomDatabase
 import com.news.newsreader.model.repo.Repository
+import com.news.newsreader.ui.ViewModelFactory
 
 class AppContainer(application: Application) {
 
@@ -21,5 +22,10 @@ class AppContainer(application: Application) {
 
     val repository = Repository(localDataSource,remoteDataSource)
 
+    /**
+     * //TODO change this manual DI to be a singleton shared across activity with fragments.
+     * //TODO most likeyl using HILT
+     */
+    val viewModelFactory = ViewModelFactory(repository)
 
 }
